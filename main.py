@@ -148,7 +148,7 @@ if plot_cogging_torque == True:
     ax.plot(cogging_rn[-1],cogging_rn[0], label=r'Cogging Torque-MBGRN', linestyle=linestyles[0], linewidth=3.0,color = colors[8])
 
     ax.set_xlabel(r'Rotor Position ($Deg$)')
-    ax.set_ylabel(r'Cogging Torque ($N/m$)')
+    ax.set_ylabel(r'Cogging Torque ($Nm$)')
     ax.set_title(r'Comparison of Cogging Torque between FEM and MBGRN')
 
     ax.legend(frameon=True, loc='lower right',ncol=1)
