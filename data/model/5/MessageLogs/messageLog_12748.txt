@@ -1,0 +1,5 @@
+29/10/2025 10:09:33 AM : Created file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\MessageLogs\messageLog_12748.txt
+29/10/2025 10:09:33 AM : Loaded file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5.mot
+29/10/2025 10:10:38 AM : Variable Magnet Mesh Length with value = 0.001l is not valid. Value will be reset.
+29/10/2025 10:10:52 AM : Status: Solving FEA model
+29/10/2025 10:10:53 AM : Q axis current only Point Calculation

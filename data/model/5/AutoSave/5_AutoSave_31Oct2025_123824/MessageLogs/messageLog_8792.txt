@@ -1,0 +1,5 @@
+31/10/2025 12:38:28 PM : Created file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_31Oct2025_123824\MessageLogs\messageLog_8792.txt
+31/10/2025 12:38:27 PM : Loaded file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_31Oct2025_123824.mot
+31/10/2025 12:38:34 PM : Data has been edited.Do you want to save the file before closing? = Yes
+31/10/2025 12:38:36 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_31Oct2025_123824\AutoSave\
+31/10/2025 12:38:36 PM : File saved to: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_31Oct2025_123824\AutoSave\5_AutoSave_31Oct2025_123836.mot

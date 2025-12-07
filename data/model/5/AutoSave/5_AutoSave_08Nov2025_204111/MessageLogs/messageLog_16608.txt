@@ -1,0 +1,7 @@
+08/11/2025 8:41:12 PM : Created file: h:\My Drive\do_an\reluctance_network14 - Copy - Copy\data\model\5\AutoSave\5_AutoSave_08Nov2025_204111\MessageLogs\messageLog_16608.txt
+08/11/2025 8:41:12 PM : Loaded file: h:\My Drive\do_an\reluctance_network14 - Copy - Copy\data\model\5\AutoSave\5_AutoSave_08Nov2025_204111.mot
+08/11/2025 8:41:12 PM : Solving FEA model
+08/11/2025 8:41:20 PM : Solving FEA model
+08/11/2025 8:41:27 PM : Solving FEA model
+08/11/2025 8:41:34 PM : Solving FEA model
+08/11/2025 8:41:42 PM : Solving FEA model

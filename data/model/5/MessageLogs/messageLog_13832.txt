@@ -1,0 +1,19 @@
+01/11/2025 11:57:18 AM : Created file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\MessageLogs\messageLog_13832.txt
+01/11/2025 11:57:18 AM : Loaded file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5.mot
+01/11/2025 11:57:19 AM : pymotorcad: set_variable AirgapMeshPoints_layers = 1500
+01/11/2025 11:57:19 AM : pymotorcad: set_variable AirgapMeshPoints_mesh = 1500
+01/11/2025 11:57:19 AM : pymotorcad: set_variable MessageDisplayState = 2
+01/11/2025 11:57:19 AM : pymotorcad: show_magnetic_context
+01/11/2025 11:57:19 AM : pymotorcad: do_magnetic_calculation
+01/11/2025 11:57:19 AM : Status: Solving FEA model
+01/11/2025 11:57:20 AM : Q axis current only Point Calculation
+01/11/2025 11:57:20 AM : Solving FEA model
+01/11/2025 11:57:24 AM : Load Point Calculation
+01/11/2025 11:57:25 AM : Solving FEA model
+01/11/2025 11:57:28 AM : Solving FEA model
+01/11/2025 11:57:30 AM : Solving FEA model
+01/11/2025 11:57:32 AM : Multistatic Back EMF Calculation
+01/11/2025 11:57:32 AM : Solving FEA model
+01/11/2025 11:57:35 AM : Solving FEA model
+01/11/2025 11:57:37 AM : Data has been edited.Do you want to save the file before closing? = Yes
+01/11/2025 11:57:37 AM : File saved to: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_01Nov2025_115737.mot

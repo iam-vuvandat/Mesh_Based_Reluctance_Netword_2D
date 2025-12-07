@@ -1,0 +1,90 @@
+29/10/2025 6:27:43 PM : Created file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\MessageLogs\messageLog_14400.txt
+29/10/2025 6:27:43 PM : Loaded file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5.mot
+29/10/2025 6:27:43 PM : pymotorcad: set_variable AirGap = 1.5
+29/10/2025 6:27:43 PM : pymotorcad: set_variable MessageDisplayState = 2
+29/10/2025 6:27:43 PM : pymotorcad: show_magnetic_context
+29/10/2025 6:27:43 PM : pymotorcad: do_magnetic_calculation
+29/10/2025 6:27:43 PM : Status: Solving FEA model
+29/10/2025 6:27:44 PM : Q axis current only Point Calculation
+29/10/2025 6:27:44 PM : Solving FEA model
+29/10/2025 6:27:46 PM : Load Point Calculation
+29/10/2025 6:27:46 PM : Solving FEA model
+29/10/2025 6:27:48 PM : Solving FEA model
+29/10/2025 6:27:49 PM : Solving FEA model
+29/10/2025 6:27:49 PM : Transient Back EMF Calculation
+29/10/2025 6:27:50 PM : Solving FEA model
+29/10/2025 6:28:27 PM : Cogging Torque Calculation
+29/10/2025 6:28:27 PM : Solving FEA model
+29/10/2025 6:28:28 PM : Solving FEA model
+29/10/2025 6:28:29 PM : Solving FEA model
+29/10/2025 6:28:30 PM : Solving FEA model
+29/10/2025 6:28:31 PM : Solving FEA model
+29/10/2025 6:28:31 PM : Solving FEA model
+29/10/2025 6:28:32 PM : Solving FEA model
+29/10/2025 6:28:33 PM : Solving FEA model
+29/10/2025 6:28:34 PM : Solving FEA model
+29/10/2025 6:28:34 PM : Solving FEA model
+29/10/2025 6:28:35 PM : Solving FEA model
+29/10/2025 6:28:36 PM : Solving FEA model
+29/10/2025 6:28:36 PM : Solving FEA model
+29/10/2025 6:28:37 PM : Solving FEA model
+29/10/2025 6:28:38 PM : Solving FEA model
+29/10/2025 6:28:38 PM : Solving FEA model
+29/10/2025 6:28:39 PM : Solving FEA model
+29/10/2025 6:28:40 PM : Solving FEA model
+29/10/2025 6:28:40 PM : Solving FEA model
+29/10/2025 6:28:41 PM : Solving FEA model
+29/10/2025 6:28:42 PM : Solving FEA model
+29/10/2025 6:28:42 PM : Solving FEA model
+29/10/2025 6:28:43 PM : Solving FEA model
+29/10/2025 6:28:44 PM : Solving FEA model
+29/10/2025 6:28:45 PM : Solving FEA model
+29/10/2025 6:28:45 PM : Solving FEA model
+29/10/2025 6:28:46 PM : Solving FEA model
+29/10/2025 6:28:47 PM : Solving FEA model
+29/10/2025 6:28:47 PM : Solving FEA model
+29/10/2025 6:28:48 PM : Solving FEA model
+29/10/2025 6:28:49 PM : Solving FEA model
+29/10/2025 6:28:49 PM : Solving FEA model
+29/10/2025 6:28:50 PM : Solving FEA model
+29/10/2025 6:28:51 PM : Solving FEA model
+29/10/2025 6:28:51 PM : Solving FEA model
+29/10/2025 6:28:52 PM : Solving FEA model
+29/10/2025 6:28:53 PM : Solving FEA model
+29/10/2025 6:28:53 PM : Solving FEA model
+29/10/2025 6:28:54 PM : Solving FEA model
+29/10/2025 6:28:55 PM : Solving FEA model
+29/10/2025 6:28:56 PM : Solving FEA model
+29/10/2025 6:28:56 PM : Solving FEA model
+29/10/2025 6:28:57 PM : Solving FEA model
+29/10/2025 6:28:58 PM : Solving FEA model
+29/10/2025 6:28:59 PM : Solving FEA model
+29/10/2025 6:29:00 PM : Solving FEA model
+29/10/2025 6:29:00 PM : Solving FEA model
+29/10/2025 6:29:01 PM : Solving FEA model
+29/10/2025 6:29:02 PM : Solving FEA model
+29/10/2025 6:29:02 PM : Solving FEA model
+29/10/2025 6:29:03 PM : Solving FEA model
+29/10/2025 6:29:04 PM : Solving FEA model
+29/10/2025 6:29:04 PM : Solving FEA model
+29/10/2025 6:29:05 PM : Solving FEA model
+29/10/2025 6:29:06 PM : Solving FEA model
+29/10/2025 6:29:07 PM : Solving FEA model
+29/10/2025 6:29:07 PM : Solving FEA model
+29/10/2025 6:29:08 PM : Solving FEA model
+29/10/2025 6:29:09 PM : Solving FEA model
+29/10/2025 6:29:09 PM : Solving FEA model
+29/10/2025 6:29:10 PM : Solving FEA model
+29/10/2025 6:29:11 PM : Solving FEA model
+29/10/2025 6:29:11 PM : Solving FEA model
+29/10/2025 6:29:12 PM : Solving FEA model
+29/10/2025 6:29:13 PM : FEA Calculation Time: 88 Seconds
+29/10/2025 6:29:13 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+29/10/2025 6:29:14 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+29/10/2025 6:29:14 PM : Solving completed
+29/10/2025 6:29:14 PM : Nodes count = 10584
+29/10/2025 6:29:14 PM : Elements count = 20856
+29/10/2025 6:29:14 PM : Status: Solving Completed
+29/10/2025 6:29:14 PM : Transferred E-Magnetic Losses to Thermal model
+29/10/2025 6:29:14 PM : pymotorcad: set_variable MessageDisplayState = 0
+29/10/2025 6:29:14 PM : pymotorcad: quit

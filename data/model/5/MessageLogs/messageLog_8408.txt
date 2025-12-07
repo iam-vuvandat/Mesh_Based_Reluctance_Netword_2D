@@ -1,0 +1,4 @@
+29/10/2025 11:43:56 PM : Created file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\MessageLogs\messageLog_8408.txt
+29/10/2025 11:43:56 PM : Loaded file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5.mot
+29/10/2025 11:44:59 PM : Status: Solving FEA model
+29/10/2025 11:45:00 PM : Q axis current only Point Calculation

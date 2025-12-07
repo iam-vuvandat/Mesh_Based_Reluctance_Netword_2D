@@ -1,0 +1,92 @@
+30/10/2025 3:14:48 PM : Created file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\MessageLogs\messageLog_15992.txt
+30/10/2025 3:14:48 PM : Loaded file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5.mot
+30/10/2025 3:14:52 PM : Status: Solving FEA model
+30/10/2025 3:14:53 PM : Q axis current only Point Calculation
+30/10/2025 3:14:53 PM : Solving FEA model
+30/10/2025 3:14:55 PM : Load Point Calculation
+30/10/2025 3:14:55 PM : Solving FEA model
+30/10/2025 3:14:57 PM : Solving FEA model
+30/10/2025 3:14:58 PM : Solving FEA model
+30/10/2025 3:14:58 PM : Transient Back EMF Calculation
+30/10/2025 3:14:58 PM : Solving FEA model
+30/10/2025 3:15:35 PM : Cogging Torque Calculation
+30/10/2025 3:15:35 PM : Solving FEA model
+30/10/2025 3:15:37 PM : Solving FEA model
+30/10/2025 3:15:37 PM : Solving FEA model
+30/10/2025 3:15:38 PM : Solving FEA model
+30/10/2025 3:15:39 PM : Solving FEA model
+30/10/2025 3:15:40 PM : Solving FEA model
+30/10/2025 3:15:41 PM : Solving FEA model
+30/10/2025 3:15:41 PM : Solving FEA model
+30/10/2025 3:15:42 PM : Solving FEA model
+30/10/2025 3:15:43 PM : Solving FEA model
+30/10/2025 3:15:43 PM : Solving FEA model
+30/10/2025 3:15:44 PM : Solving FEA model
+30/10/2025 3:15:45 PM : Solving FEA model
+30/10/2025 3:15:45 PM : Solving FEA model
+30/10/2025 3:15:46 PM : Solving FEA model
+30/10/2025 3:15:47 PM : Solving FEA model
+30/10/2025 3:15:47 PM : Solving FEA model
+30/10/2025 3:15:48 PM : Solving FEA model
+30/10/2025 3:15:49 PM : Solving FEA model
+30/10/2025 3:15:49 PM : Solving FEA model
+30/10/2025 3:15:50 PM : Solving FEA model
+30/10/2025 3:15:51 PM : Solving FEA model
+30/10/2025 3:15:51 PM : Solving FEA model
+30/10/2025 3:15:52 PM : Solving FEA model
+30/10/2025 3:15:53 PM : Solving FEA model
+30/10/2025 3:15:54 PM : Solving FEA model
+30/10/2025 3:15:54 PM : Solving FEA model
+30/10/2025 3:15:55 PM : Solving FEA model
+30/10/2025 3:15:56 PM : Solving FEA model
+30/10/2025 3:15:56 PM : Solving FEA model
+30/10/2025 3:15:57 PM : Solving FEA model
+30/10/2025 3:15:58 PM : Solving FEA model
+30/10/2025 3:15:59 PM : Solving FEA model
+30/10/2025 3:15:59 PM : Solving FEA model
+30/10/2025 3:16:00 PM : Solving FEA model
+30/10/2025 3:16:01 PM : Solving FEA model
+30/10/2025 3:16:01 PM : Solving FEA model
+30/10/2025 3:16:02 PM : Solving FEA model
+30/10/2025 3:16:03 PM : Solving FEA model
+30/10/2025 3:16:03 PM : Solving FEA model
+30/10/2025 3:16:04 PM : Solving FEA model
+30/10/2025 3:16:05 PM : Solving FEA model
+30/10/2025 3:16:05 PM : Solving FEA model
+30/10/2025 3:16:06 PM : Solving FEA model
+30/10/2025 3:16:07 PM : Solving FEA model
+30/10/2025 3:16:07 PM : Solving FEA model
+30/10/2025 3:16:08 PM : Solving FEA model
+30/10/2025 3:16:09 PM : Solving FEA model
+30/10/2025 3:16:10 PM : Solving FEA model
+30/10/2025 3:16:10 PM : Solving FEA model
+30/10/2025 3:16:11 PM : Solving FEA model
+30/10/2025 3:16:12 PM : Solving FEA model
+30/10/2025 3:16:12 PM : Solving FEA model
+30/10/2025 3:16:13 PM : Solving FEA model
+30/10/2025 3:16:14 PM : Solving FEA model
+30/10/2025 3:16:14 PM : Solving FEA model
+30/10/2025 3:16:15 PM : Solving FEA model
+30/10/2025 3:16:16 PM : Solving FEA model
+30/10/2025 3:16:16 PM : Solving FEA model
+30/10/2025 3:16:17 PM : Solving FEA model
+30/10/2025 3:16:18 PM : Solving FEA model
+30/10/2025 3:16:19 PM : Solving FEA model
+30/10/2025 3:16:19 PM : Solving FEA model
+30/10/2025 3:16:20 PM : Solving FEA model
+30/10/2025 3:16:21 PM : FEA Calculation Time: 87 Seconds
+30/10/2025 3:16:21 PM : Creating folder: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\FEResultsData\feasys\
+30/10/2025 3:16:22 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+30/10/2025 3:16:22 PM : Solving completed
+30/10/2025 3:16:22 PM : Nodes count = 10584
+30/10/2025 3:16:22 PM : Elements count = 20856
+30/10/2025 3:16:22 PM : Status: Solving Completed
+30/10/2025 3:16:22 PM : Transferred E-Magnetic Losses to Thermal model
+30/10/2025 3:17:51 PM : ActiveX: set_variable FEA_MeshElements = 20856
+30/10/2025 3:17:56 PM : ActiveX: set_variable FEA_MeshElements = 20856
+30/10/2025 3:17:58 PM : ActiveX: set_variable FEA_MeshElements = 20856
+30/10/2025 3:17:58 PM : ActiveX: set_variable FEA_MeshElements = 20856
+30/10/2025 3:19:44 PM : ActiveX: set_variable FEA_MeshElements = 20856
+30/10/2025 3:19:44 PM : ActiveX: set_variable FEA_MeshElements = 20856
+30/10/2025 3:21:42 PM : ActiveX: set_variable FEA_MeshElements = 20856
+30/10/2025 3:22:12 PM : Data has been edited.Do you want to save the file before closing? = No

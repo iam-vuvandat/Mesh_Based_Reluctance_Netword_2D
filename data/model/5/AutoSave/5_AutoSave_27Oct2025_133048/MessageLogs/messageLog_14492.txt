@@ -1,0 +1,9 @@
+27/10/2025 1:30:48 PM : Created file: c:\Users\Surface\Desktop\reluctance_network13\data\model\5\AutoSave\5_AutoSave_27Oct2025_133048\MessageLogs\messageLog_14492.txt
+27/10/2025 1:30:48 PM : Loaded file: c:\Users\Surface\Desktop\reluctance_network13\data\model\5\AutoSave\5_AutoSave_27Oct2025_133048.mot
+27/10/2025 1:30:55 PM : Cogging Torque Calculation
+27/10/2025 1:30:55 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13\data\model\5\AutoSave\5_AutoSave_27Oct2025_133048\FEResultsData\
+27/10/2025 1:30:55 PM : Solving FEA model
+27/10/2025 1:30:57 PM : Solving FEA model
+27/10/2025 1:30:58 PM : Solving FEA model
+27/10/2025 1:31:00 PM : Solving FEA model
+27/10/2025 1:31:01 PM : Solving FEA model

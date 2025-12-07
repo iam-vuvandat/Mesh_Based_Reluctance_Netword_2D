@@ -1,0 +1,62 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002025, month=000000000011, day=000000000001, hour=000000000013, min=000000000010, sec=000000000051)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000002746, lin=000000000043, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='Motor-CAD 5'
+	VersionID=105
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=144
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='Airgap=\'1.5mm\' Axial_Segments=\'1\' Banding_Thickness=\'0mm\' Bs0_Stator=\'5mm\' Bs1_Stator=\'11.354457022334699mm\' Bs2_Stator=\'20.5349159636047mm\' DiaGap=\'120mm\' DiaOuter=\'190mm\' DiaShaft=\'96mm\' DiaShaft_Effective=\'96mm\' DiaStatorYoke=\'190mm\' DriveOffsetED=\'29.999999999999996deg\' Embrace_Magnet=\'0.66666666666666696\' Embrace_Rotor=\'0.66666666666666696\' FilletType_Stator=\'3\' HalfAxial=\'0\' Hs0_Stator=\'1mm\' Hs1_Stator=\'1.8343737361994199mm\' Hs2_Stator=\'21.595331776964901mm\' InitialPositionMD=\'-6deg\' IPeak=\'0A\' Is_2D_Design=\'1\' Layers=\'2\' Lend=\'0.000119812713531667H\' MachineRPM=\'1500.0000000000002rpm\' Magnet_Axial_Offset=\'0mm\' Magnet_Length=\'120mm\' Magnetic_Axial_Length=\'120mm\' MaxPhasorAngle=\'119.99999999999999deg\' Model_Length=\'0mm\' NumPoles=\'10\' NumTorqueCycles=\'1\' NumTorquePointsPerCycle=\'31\' Offset_PMCore=\'0\' ParallelPaths=\'1\' PeakDriveVoltage=\'0V\' PhaseAdvance=\'0deg\' PhasorAngle=\'0deg\' PoleType_PMCore=\'1\' Rotor_Lam_Length=\'0mm\' Rotor_Slices=\'1\' RotorDia=\'117mm\' Rphase=\'0.23158674917233699ohm\' Rs_Stator=\'0mm\' SegAngle=\'0deg\' SegAngle_Coil_Armature=\'10deg\' Shaft_Hole_Diameter=\'0mm\' Sleeve_Thickness=\'0mm\' SlotNumber_Stator=\'15\' SlotType_Stator=\'3\' SpanExt=\'25mm\' Stator_Lam_Length=\'0mm\' StatorSkewAngle=\'0deg\' SymmetryFactor=\'5\' ThickMag=\'3mm\' Vpeak=\'0V\' WdgExt_Avg=\'5mm\'', ID=103)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'MI'
+	$end 'MI'
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=101, Instance=\'SetupDefinition\', Solution=-1, VersionID=105)'='SolutionBlock3'
+	'SolutionKey(SimSetup=101, Instance=\'SolutionDefinition\', Solution=102, VersionID=105)'='SolutionBlock2'
+$end 'BlockMapName'
+$begin 'SolutionBlock2'
+	SolutionName='Transient'
+	SolutionID=102
+	V=105
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies()
+		SolutionType=1
+		CenterFreq=0
+	$end 'Definition'
+$end 'SolutionBlock2'
+$begin 'SolutionBlock3'
+	SimSetupID=101
+	SimSetupName='Setup1'
+	VersionID=105
+	SolveSetupID=0
+	$begin 'MI'
+	$end 'MI'
+$end 'SolutionBlock3'
+$begin '$index$'
+	$begin '$index$'
+		SolutionBlock2(pos=2361, lin=22, lvl=0)
+		SolutionBlock3(pos=2606, lin=35, lvl=0)
+		BlockMapName(pos=2078, lin=17, lvl=0)
+		SolutionBlock1(pos=370, lin=1, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=2746, lin=43, lvl=0)
+	$end '$index$'
+$end '$index$'

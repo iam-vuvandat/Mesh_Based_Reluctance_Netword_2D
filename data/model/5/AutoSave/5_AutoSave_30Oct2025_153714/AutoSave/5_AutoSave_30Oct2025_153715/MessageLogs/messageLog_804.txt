@@ -1,0 +1,7 @@
+30/10/2025 3:37:16 PM : Created file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_30Oct2025_153714\AutoSave\5_AutoSave_30Oct2025_153715\MessageLogs\messageLog_804.txt
+30/10/2025 3:37:16 PM : Loaded file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_30Oct2025_153714\AutoSave\5_AutoSave_30Oct2025_153715.mot
+30/10/2025 3:37:16 PM : Data has been edited.Do you want to save the file before closing? = Yes
+30/10/2025 3:37:16 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_30Oct2025_153714\AutoSave\5_AutoSave_30Oct2025_153715\AutoSave\
+30/10/2025 3:37:16 PM : File saved to: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_30Oct2025_153714\AutoSave\5_AutoSave_30Oct2025_153715\AutoSave\5_AutoSave_30Oct2025_153716.mot
+30/10/2025 3:37:16 PM : File path c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\AutoSave\5_AutoSave_30Oct2025_153714\AutoSave\5_AutoSave_30Oct2025_153715\AutoSave\5_AutoSave_30Oct2025_153716.mot is too long.
+.mot file paths should not exceed 180 characters.

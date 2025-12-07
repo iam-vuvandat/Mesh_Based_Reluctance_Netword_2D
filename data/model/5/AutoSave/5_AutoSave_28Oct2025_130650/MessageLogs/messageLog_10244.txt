@@ -1,0 +1,4 @@
+28/10/2025 1:06:52 PM : Created file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\AutoSave\5_AutoSave_28Oct2025_130650\MessageLogs\messageLog_10244.txt
+28/10/2025 1:06:52 PM : Unable to save defaults file at C:\Ansys_Motor-CAD\2025_1_1\Motor-CAD Data\Defaults.INI
+Check that this location exists and that Motor-CAD has write access.
+28/10/2025 1:06:52 PM : Loaded file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\AutoSave\5_AutoSave_28Oct2025_130650.mot

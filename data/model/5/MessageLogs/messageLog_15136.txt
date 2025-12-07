@@ -1,0 +1,64 @@
+01/11/2025 3:52:49 PM : Created file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\MessageLogs\messageLog_15136.txt
+01/11/2025 3:52:49 PM : Loaded file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5.mot
+01/11/2025 3:52:49 PM : pymotorcad: set_variable AirGap = 0.4
+01/11/2025 3:52:49 PM : pymotorcad: set_variable MessageDisplayState = 2
+01/11/2025 3:52:49 PM : pymotorcad: show_magnetic_context
+01/11/2025 3:52:49 PM : pymotorcad: do_magnetic_calculation
+01/11/2025 3:52:50 PM : Status: Solving FEA model
+01/11/2025 3:52:50 PM : Q axis current only Point Calculation
+01/11/2025 3:52:50 PM : Solving FEA model
+01/11/2025 3:52:59 PM : Load Point Calculation
+01/11/2025 3:53:00 PM : Solving FEA model
+01/11/2025 3:53:09 PM : Solving FEA model
+01/11/2025 3:53:12 PM : Solving FEA model
+01/11/2025 3:53:15 PM : Multistatic Back EMF Calculation
+01/11/2025 3:53:16 PM : Solving FEA model
+01/11/2025 3:53:23 PM : Solving FEA model
+01/11/2025 3:53:30 PM : Solving FEA model
+01/11/2025 3:53:36 PM : Solving FEA model
+01/11/2025 3:53:41 PM : Solving FEA model
+01/11/2025 3:53:47 PM : Solving FEA model
+01/11/2025 3:53:52 PM : Solving FEA model
+01/11/2025 3:53:58 PM : Solving FEA model
+01/11/2025 3:54:04 PM : Solving FEA model
+01/11/2025 3:54:09 PM : Solving FEA model
+01/11/2025 3:54:15 PM : Solving FEA model
+01/11/2025 3:54:20 PM : Solving FEA model
+01/11/2025 3:54:26 PM : Solving FEA model
+01/11/2025 3:54:32 PM : Solving FEA model
+01/11/2025 3:54:38 PM : Solving FEA model
+01/11/2025 3:54:44 PM : Solving FEA model
+01/11/2025 3:54:50 PM : Solving FEA model
+01/11/2025 3:54:56 PM : Cogging Torque Calculation
+01/11/2025 3:54:57 PM : Solving FEA model
+01/11/2025 3:55:05 PM : Solving FEA model
+01/11/2025 3:55:09 PM : Solving FEA model
+01/11/2025 3:55:15 PM : Solving FEA model
+01/11/2025 3:55:19 PM : Solving FEA model
+01/11/2025 3:55:23 PM : Solving FEA model
+01/11/2025 3:55:27 PM : Solving FEA model
+01/11/2025 3:55:31 PM : Solving FEA model
+01/11/2025 3:55:37 PM : Solving FEA model
+01/11/2025 3:55:42 PM : Solving FEA model
+01/11/2025 3:55:48 PM : Solving FEA model
+01/11/2025 3:55:53 PM : Solving FEA model
+01/11/2025 3:55:59 PM : Solving FEA model
+01/11/2025 3:56:04 PM : Solving FEA model
+01/11/2025 3:56:09 PM : Solving FEA model
+01/11/2025 3:56:15 PM : Solving FEA model
+01/11/2025 3:56:19 PM : Solving FEA model
+01/11/2025 3:56:23 PM : Solving FEA model
+01/11/2025 3:56:28 PM : Solving FEA model
+01/11/2025 3:56:32 PM : Solving FEA model
+01/11/2025 3:56:36 PM : Solving FEA model
+01/11/2025 3:56:40 PM : Solving FEA model
+01/11/2025 3:56:45 PM : Solving FEA model
+01/11/2025 3:56:50 PM : Solving FEA model
+01/11/2025 3:56:55 PM : Solving FEA model
+01/11/2025 3:57:01 PM : Solving FEA model
+01/11/2025 3:57:08 PM : Solving FEA model
+01/11/2025 3:57:14 PM : Solving FEA model
+01/11/2025 3:57:20 PM : Solving FEA model
+01/11/2025 3:57:25 PM : Solving FEA model
+01/11/2025 3:57:30 PM : Solving FEA model
+01/11/2025 3:57:34 PM : Solving FEA model

@@ -1,0 +1,1743 @@
+28/10/2025 1:11:46 PM : Created file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\MessageLogs\messageLog_6484.txt
+28/10/2025 1:11:46 PM : Loaded file: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5.mot
+28/10/2025 1:11:46 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 30
+28/10/2025 1:11:46 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:11:46 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:11:46 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:11:46 PM : Status: Solving FEA model
+28/10/2025 1:11:47 PM : Q axis current only Point Calculation
+28/10/2025 1:11:47 PM : Solving FEA model
+28/10/2025 1:11:48 PM : Load Point Calculation
+28/10/2025 1:11:49 PM : Solving FEA model
+28/10/2025 1:11:50 PM : Solving FEA model
+28/10/2025 1:11:51 PM : Solving FEA model
+28/10/2025 1:11:51 PM : Transient Back EMF Calculation
+28/10/2025 1:11:51 PM : Solving FEA model
+28/10/2025 1:12:24 PM : Cogging Torque Calculation
+28/10/2025 1:12:24 PM : Solving FEA model
+28/10/2025 1:12:25 PM : Solving FEA model
+28/10/2025 1:12:25 PM : Solving FEA model
+28/10/2025 1:12:26 PM : Solving FEA model
+28/10/2025 1:12:27 PM : Solving FEA model
+28/10/2025 1:12:27 PM : Solving FEA model
+28/10/2025 1:12:28 PM : Solving FEA model
+28/10/2025 1:12:29 PM : Solving FEA model
+28/10/2025 1:12:30 PM : Solving FEA model
+28/10/2025 1:12:30 PM : Solving FEA model
+28/10/2025 1:12:31 PM : Solving FEA model
+28/10/2025 1:12:32 PM : Solving FEA model
+28/10/2025 1:12:32 PM : Solving FEA model
+28/10/2025 1:12:33 PM : Solving FEA model
+28/10/2025 1:12:34 PM : Solving FEA model
+28/10/2025 1:12:34 PM : Solving FEA model
+28/10/2025 1:12:35 PM : Solving FEA model
+28/10/2025 1:12:36 PM : Solving FEA model
+28/10/2025 1:12:36 PM : Solving FEA model
+28/10/2025 1:12:37 PM : Solving FEA model
+28/10/2025 1:12:38 PM : Solving FEA model
+28/10/2025 1:12:38 PM : Solving FEA model
+28/10/2025 1:12:39 PM : Solving FEA model
+28/10/2025 1:12:40 PM : Solving FEA model
+28/10/2025 1:12:40 PM : Solving FEA model
+28/10/2025 1:12:41 PM : Solving FEA model
+28/10/2025 1:12:42 PM : Solving FEA model
+28/10/2025 1:12:42 PM : Solving FEA model
+28/10/2025 1:12:43 PM : Solving FEA model
+28/10/2025 1:12:44 PM : Solving FEA model
+28/10/2025 1:12:44 PM : Solving FEA model
+28/10/2025 1:12:45 PM : Solving FEA model
+28/10/2025 1:12:46 PM : Solving FEA model
+28/10/2025 1:12:46 PM : Solving FEA model
+28/10/2025 1:12:47 PM : Solving FEA model
+28/10/2025 1:12:48 PM : Solving FEA model
+28/10/2025 1:12:48 PM : Solving FEA model
+28/10/2025 1:12:49 PM : Solving FEA model
+28/10/2025 1:12:50 PM : Solving FEA model
+28/10/2025 1:12:50 PM : Solving FEA model
+28/10/2025 1:12:51 PM : Solving FEA model
+28/10/2025 1:12:52 PM : Solving FEA model
+28/10/2025 1:12:52 PM : Solving FEA model
+28/10/2025 1:12:53 PM : Solving FEA model
+28/10/2025 1:12:54 PM : Solving FEA model
+28/10/2025 1:12:55 PM : Solving FEA model
+28/10/2025 1:12:55 PM : Solving FEA model
+28/10/2025 1:12:56 PM : Solving FEA model
+28/10/2025 1:12:57 PM : Solving FEA model
+28/10/2025 1:12:57 PM : Solving FEA model
+28/10/2025 1:12:58 PM : Solving FEA model
+28/10/2025 1:12:59 PM : Solving FEA model
+28/10/2025 1:13:00 PM : Solving FEA model
+28/10/2025 1:13:00 PM : Solving FEA model
+28/10/2025 1:13:01 PM : Solving FEA model
+28/10/2025 1:13:02 PM : Solving FEA model
+28/10/2025 1:13:02 PM : Solving FEA model
+28/10/2025 1:13:03 PM : Solving FEA model
+28/10/2025 1:13:04 PM : Solving FEA model
+28/10/2025 1:13:05 PM : Solving FEA model
+28/10/2025 1:13:05 PM : Solving FEA model
+28/10/2025 1:13:06 PM : Solving FEA model
+28/10/2025 1:13:07 PM : Solving FEA model
+28/10/2025 1:13:07 PM : Solving FEA model
+28/10/2025 1:13:08 PM : FEA Calculation Time: 81 Seconds
+28/10/2025 1:13:08 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:13:09 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:13:09 PM : Solving completed
+28/10/2025 1:13:09 PM : Nodes count = 10616
+28/10/2025 1:13:09 PM : Elements count = 20920
+28/10/2025 1:13:09 PM : Status: Solving Completed
+28/10/2025 1:13:09 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:13:10 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:14:07 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 37.8947368421053
+28/10/2025 1:14:07 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:14:07 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:14:07 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:14:07 PM : Status: Solving FEA model
+28/10/2025 1:14:07 PM : Q axis current only Point Calculation
+28/10/2025 1:14:07 PM : Solving FEA model
+28/10/2025 1:14:09 PM : Load Point Calculation
+28/10/2025 1:14:09 PM : Solving FEA model
+28/10/2025 1:14:10 PM : Solving FEA model
+28/10/2025 1:14:11 PM : Solving FEA model
+28/10/2025 1:14:12 PM : Transient Back EMF Calculation
+28/10/2025 1:14:12 PM : Solving FEA model
+28/10/2025 1:14:45 PM : Cogging Torque Calculation
+28/10/2025 1:14:46 PM : Solving FEA model
+28/10/2025 1:14:46 PM : Solving FEA model
+28/10/2025 1:14:47 PM : Solving FEA model
+28/10/2025 1:14:48 PM : Solving FEA model
+28/10/2025 1:14:49 PM : Solving FEA model
+28/10/2025 1:14:49 PM : Solving FEA model
+28/10/2025 1:14:50 PM : Solving FEA model
+28/10/2025 1:14:51 PM : Solving FEA model
+28/10/2025 1:14:51 PM : Solving FEA model
+28/10/2025 1:14:52 PM : Solving FEA model
+28/10/2025 1:14:53 PM : Solving FEA model
+28/10/2025 1:14:53 PM : Solving FEA model
+28/10/2025 1:14:54 PM : Solving FEA model
+28/10/2025 1:14:55 PM : Solving FEA model
+28/10/2025 1:14:55 PM : Solving FEA model
+28/10/2025 1:14:56 PM : Solving FEA model
+28/10/2025 1:14:57 PM : Solving FEA model
+28/10/2025 1:14:57 PM : Solving FEA model
+28/10/2025 1:14:58 PM : Solving FEA model
+28/10/2025 1:14:59 PM : Solving FEA model
+28/10/2025 1:14:59 PM : Solving FEA model
+28/10/2025 1:15:00 PM : Solving FEA model
+28/10/2025 1:15:01 PM : Solving FEA model
+28/10/2025 1:15:02 PM : Solving FEA model
+28/10/2025 1:15:02 PM : Solving FEA model
+28/10/2025 1:15:03 PM : Solving FEA model
+28/10/2025 1:15:04 PM : Solving FEA model
+28/10/2025 1:15:04 PM : Solving FEA model
+28/10/2025 1:15:05 PM : Solving FEA model
+28/10/2025 1:15:06 PM : Solving FEA model
+28/10/2025 1:15:06 PM : Solving FEA model
+28/10/2025 1:15:07 PM : Solving FEA model
+28/10/2025 1:15:08 PM : Solving FEA model
+28/10/2025 1:15:08 PM : Solving FEA model
+28/10/2025 1:15:09 PM : Solving FEA model
+28/10/2025 1:15:10 PM : Solving FEA model
+28/10/2025 1:15:10 PM : Solving FEA model
+28/10/2025 1:15:11 PM : Solving FEA model
+28/10/2025 1:15:12 PM : Solving FEA model
+28/10/2025 1:15:12 PM : Solving FEA model
+28/10/2025 1:15:13 PM : Solving FEA model
+28/10/2025 1:15:14 PM : Solving FEA model
+28/10/2025 1:15:14 PM : Solving FEA model
+28/10/2025 1:15:15 PM : Solving FEA model
+28/10/2025 1:15:16 PM : Solving FEA model
+28/10/2025 1:15:16 PM : Solving FEA model
+28/10/2025 1:15:17 PM : Solving FEA model
+28/10/2025 1:15:18 PM : Solving FEA model
+28/10/2025 1:15:18 PM : Solving FEA model
+28/10/2025 1:15:19 PM : Solving FEA model
+28/10/2025 1:15:20 PM : Solving FEA model
+28/10/2025 1:15:21 PM : Solving FEA model
+28/10/2025 1:15:21 PM : Solving FEA model
+28/10/2025 1:15:22 PM : Solving FEA model
+28/10/2025 1:15:22 PM : Solving FEA model
+28/10/2025 1:15:23 PM : Solving FEA model
+28/10/2025 1:15:24 PM : Solving FEA model
+28/10/2025 1:15:25 PM : Solving FEA model
+28/10/2025 1:15:25 PM : Solving FEA model
+28/10/2025 1:15:26 PM : Solving FEA model
+28/10/2025 1:15:27 PM : Solving FEA model
+28/10/2025 1:15:27 PM : Solving FEA model
+28/10/2025 1:15:28 PM : Solving FEA model
+28/10/2025 1:15:29 PM : Solving FEA model
+28/10/2025 1:15:29 PM : FEA Calculation Time: 82 Seconds
+28/10/2025 1:15:29 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:15:30 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:15:30 PM : Solving completed
+28/10/2025 1:15:31 PM : Nodes count = 10566
+28/10/2025 1:15:31 PM : Elements count = 20820
+28/10/2025 1:15:31 PM : Status: Solving Completed
+28/10/2025 1:15:31 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:15:31 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:16:22 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 45.7894736842105
+28/10/2025 1:16:22 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:16:22 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:16:22 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:16:22 PM : Status: Solving FEA model
+28/10/2025 1:16:23 PM : Q axis current only Point Calculation
+28/10/2025 1:16:23 PM : Solving FEA model
+28/10/2025 1:16:24 PM : Load Point Calculation
+28/10/2025 1:16:24 PM : Solving FEA model
+28/10/2025 1:16:26 PM : Solving FEA model
+28/10/2025 1:16:26 PM : Solving FEA model
+28/10/2025 1:16:27 PM : Transient Back EMF Calculation
+28/10/2025 1:16:27 PM : Solving FEA model
+28/10/2025 1:17:02 PM : Cogging Torque Calculation
+28/10/2025 1:17:02 PM : Solving FEA model
+28/10/2025 1:17:03 PM : Solving FEA model
+28/10/2025 1:17:03 PM : Solving FEA model
+28/10/2025 1:17:05 PM : Solving FEA model
+28/10/2025 1:17:05 PM : Solving FEA model
+28/10/2025 1:17:06 PM : Solving FEA model
+28/10/2025 1:17:07 PM : Solving FEA model
+28/10/2025 1:17:07 PM : Solving FEA model
+28/10/2025 1:17:08 PM : Solving FEA model
+28/10/2025 1:17:09 PM : Solving FEA model
+28/10/2025 1:17:09 PM : Solving FEA model
+28/10/2025 1:17:10 PM : Solving FEA model
+28/10/2025 1:17:11 PM : Solving FEA model
+28/10/2025 1:17:11 PM : Solving FEA model
+28/10/2025 1:17:12 PM : Solving FEA model
+28/10/2025 1:17:13 PM : Solving FEA model
+28/10/2025 1:17:13 PM : Solving FEA model
+28/10/2025 1:17:14 PM : Solving FEA model
+28/10/2025 1:17:15 PM : Solving FEA model
+28/10/2025 1:17:15 PM : Solving FEA model
+28/10/2025 1:17:16 PM : Solving FEA model
+28/10/2025 1:17:17 PM : Solving FEA model
+28/10/2025 1:17:18 PM : Solving FEA model
+28/10/2025 1:17:18 PM : Solving FEA model
+28/10/2025 1:17:19 PM : Solving FEA model
+28/10/2025 1:17:20 PM : Solving FEA model
+28/10/2025 1:17:20 PM : Solving FEA model
+28/10/2025 1:17:21 PM : Solving FEA model
+28/10/2025 1:17:22 PM : Solving FEA model
+28/10/2025 1:17:22 PM : Solving FEA model
+28/10/2025 1:17:23 PM : Solving FEA model
+28/10/2025 1:17:24 PM : Solving FEA model
+28/10/2025 1:17:25 PM : Solving FEA model
+28/10/2025 1:17:25 PM : Solving FEA model
+28/10/2025 1:17:26 PM : Solving FEA model
+28/10/2025 1:17:27 PM : Solving FEA model
+28/10/2025 1:17:27 PM : Solving FEA model
+28/10/2025 1:17:28 PM : Solving FEA model
+28/10/2025 1:17:29 PM : Solving FEA model
+28/10/2025 1:17:29 PM : Solving FEA model
+28/10/2025 1:17:30 PM : Solving FEA model
+28/10/2025 1:17:31 PM : Solving FEA model
+28/10/2025 1:17:31 PM : Solving FEA model
+28/10/2025 1:17:32 PM : Solving FEA model
+28/10/2025 1:17:33 PM : Solving FEA model
+28/10/2025 1:17:33 PM : Solving FEA model
+28/10/2025 1:17:34 PM : Solving FEA model
+28/10/2025 1:17:35 PM : Solving FEA model
+28/10/2025 1:17:35 PM : Solving FEA model
+28/10/2025 1:17:36 PM : Solving FEA model
+28/10/2025 1:17:37 PM : Solving FEA model
+28/10/2025 1:17:38 PM : Solving FEA model
+28/10/2025 1:17:38 PM : Solving FEA model
+28/10/2025 1:17:39 PM : Solving FEA model
+28/10/2025 1:17:40 PM : Solving FEA model
+28/10/2025 1:17:40 PM : Solving FEA model
+28/10/2025 1:17:41 PM : Solving FEA model
+28/10/2025 1:17:42 PM : Solving FEA model
+28/10/2025 1:17:42 PM : Solving FEA model
+28/10/2025 1:17:43 PM : Solving FEA model
+28/10/2025 1:17:44 PM : Solving FEA model
+28/10/2025 1:17:45 PM : Solving FEA model
+28/10/2025 1:17:45 PM : Solving FEA model
+28/10/2025 1:17:46 PM : Solving FEA model
+28/10/2025 1:17:47 PM : FEA Calculation Time: 84 Seconds
+28/10/2025 1:17:47 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:17:47 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:17:48 PM : Solving completed
+28/10/2025 1:17:48 PM : Nodes count = 10610
+28/10/2025 1:17:48 PM : Elements count = 20908
+28/10/2025 1:17:48 PM : Status: Solving Completed
+28/10/2025 1:17:48 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:17:48 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:18:41 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 53.6842105263158
+28/10/2025 1:18:41 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:18:41 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:18:41 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:18:41 PM : Status: Solving FEA model
+28/10/2025 1:18:42 PM : Q axis current only Point Calculation
+28/10/2025 1:18:42 PM : Solving FEA model
+28/10/2025 1:18:43 PM : Load Point Calculation
+28/10/2025 1:18:44 PM : Solving FEA model
+28/10/2025 1:18:45 PM : Solving FEA model
+28/10/2025 1:18:46 PM : Solving FEA model
+28/10/2025 1:18:47 PM : Transient Back EMF Calculation
+28/10/2025 1:18:48 PM : Solving FEA model
+28/10/2025 1:19:29 PM : Cogging Torque Calculation
+28/10/2025 1:19:30 PM : Solving FEA model
+28/10/2025 1:19:31 PM : Solving FEA model
+28/10/2025 1:19:31 PM : Solving FEA model
+28/10/2025 1:19:32 PM : Solving FEA model
+28/10/2025 1:19:33 PM : Solving FEA model
+28/10/2025 1:19:34 PM : Solving FEA model
+28/10/2025 1:19:35 PM : Solving FEA model
+28/10/2025 1:19:35 PM : Solving FEA model
+28/10/2025 1:19:36 PM : Solving FEA model
+28/10/2025 1:19:37 PM : Solving FEA model
+28/10/2025 1:19:38 PM : Solving FEA model
+28/10/2025 1:19:39 PM : Solving FEA model
+28/10/2025 1:19:40 PM : Solving FEA model
+28/10/2025 1:19:40 PM : Solving FEA model
+28/10/2025 1:19:41 PM : Solving FEA model
+28/10/2025 1:19:42 PM : Solving FEA model
+28/10/2025 1:19:43 PM : Solving FEA model
+28/10/2025 1:19:44 PM : Solving FEA model
+28/10/2025 1:19:45 PM : Solving FEA model
+28/10/2025 1:19:46 PM : Solving FEA model
+28/10/2025 1:19:47 PM : Solving FEA model
+28/10/2025 1:19:48 PM : Solving FEA model
+28/10/2025 1:19:48 PM : Solving FEA model
+28/10/2025 1:19:49 PM : Solving FEA model
+28/10/2025 1:19:50 PM : Solving FEA model
+28/10/2025 1:19:51 PM : Solving FEA model
+28/10/2025 1:19:51 PM : Solving FEA model
+28/10/2025 1:19:52 PM : Solving FEA model
+28/10/2025 1:19:53 PM : Solving FEA model
+28/10/2025 1:19:54 PM : Solving FEA model
+28/10/2025 1:19:54 PM : Solving FEA model
+28/10/2025 1:19:55 PM : Solving FEA model
+28/10/2025 1:19:56 PM : Solving FEA model
+28/10/2025 1:19:57 PM : Solving FEA model
+28/10/2025 1:19:58 PM : Solving FEA model
+28/10/2025 1:19:58 PM : Solving FEA model
+28/10/2025 1:19:59 PM : Solving FEA model
+28/10/2025 1:20:00 PM : Solving FEA model
+28/10/2025 1:20:01 PM : Solving FEA model
+28/10/2025 1:20:02 PM : Solving FEA model
+28/10/2025 1:20:02 PM : Solving FEA model
+28/10/2025 1:20:03 PM : Solving FEA model
+28/10/2025 1:20:04 PM : Solving FEA model
+28/10/2025 1:20:05 PM : Solving FEA model
+28/10/2025 1:20:06 PM : Solving FEA model
+28/10/2025 1:20:07 PM : Solving FEA model
+28/10/2025 1:20:08 PM : Solving FEA model
+28/10/2025 1:20:09 PM : Solving FEA model
+28/10/2025 1:20:10 PM : Solving FEA model
+28/10/2025 1:20:10 PM : Solving FEA model
+28/10/2025 1:20:11 PM : Solving FEA model
+28/10/2025 1:20:12 PM : Solving FEA model
+28/10/2025 1:20:13 PM : Solving FEA model
+28/10/2025 1:20:13 PM : Solving FEA model
+28/10/2025 1:20:14 PM : Solving FEA model
+28/10/2025 1:20:15 PM : Solving FEA model
+28/10/2025 1:20:16 PM : Solving FEA model
+28/10/2025 1:20:16 PM : Solving FEA model
+28/10/2025 1:20:17 PM : Solving FEA model
+28/10/2025 1:20:18 PM : Solving FEA model
+28/10/2025 1:20:19 PM : Solving FEA model
+28/10/2025 1:20:20 PM : Solving FEA model
+28/10/2025 1:20:20 PM : Solving FEA model
+28/10/2025 1:20:21 PM : Solving FEA model
+28/10/2025 1:20:22 PM : FEA Calculation Time: 100 Seconds
+28/10/2025 1:20:22 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:20:23 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:20:23 PM : Solving completed
+28/10/2025 1:20:23 PM : Nodes count = 10534
+28/10/2025 1:20:23 PM : Elements count = 20756
+28/10/2025 1:20:24 PM : Status: Solving Completed
+28/10/2025 1:20:24 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:20:24 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:21:26 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 61.5789473684211
+28/10/2025 1:21:26 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:21:26 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:21:26 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:21:26 PM : Status: Solving FEA model
+28/10/2025 1:21:27 PM : Q axis current only Point Calculation
+28/10/2025 1:21:27 PM : Solving FEA model
+28/10/2025 1:21:29 PM : Load Point Calculation
+28/10/2025 1:21:29 PM : Solving FEA model
+28/10/2025 1:21:31 PM : Solving FEA model
+28/10/2025 1:21:32 PM : Solving FEA model
+28/10/2025 1:21:33 PM : Transient Back EMF Calculation
+28/10/2025 1:21:33 PM : Solving FEA model
+28/10/2025 1:22:14 PM : Cogging Torque Calculation
+28/10/2025 1:22:15 PM : Solving FEA model
+28/10/2025 1:22:16 PM : Solving FEA model
+28/10/2025 1:22:17 PM : Solving FEA model
+28/10/2025 1:22:18 PM : Solving FEA model
+28/10/2025 1:22:19 PM : Solving FEA model
+28/10/2025 1:22:20 PM : Solving FEA model
+28/10/2025 1:22:21 PM : Solving FEA model
+28/10/2025 1:22:22 PM : Solving FEA model
+28/10/2025 1:22:23 PM : Solving FEA model
+28/10/2025 1:22:23 PM : Solving FEA model
+28/10/2025 1:22:24 PM : Solving FEA model
+28/10/2025 1:22:25 PM : Solving FEA model
+28/10/2025 1:22:26 PM : Solving FEA model
+28/10/2025 1:22:26 PM : Solving FEA model
+28/10/2025 1:22:27 PM : Solving FEA model
+28/10/2025 1:22:28 PM : Solving FEA model
+28/10/2025 1:22:29 PM : Solving FEA model
+28/10/2025 1:22:30 PM : Solving FEA model
+28/10/2025 1:22:30 PM : Solving FEA model
+28/10/2025 1:22:31 PM : Solving FEA model
+28/10/2025 1:22:32 PM : Solving FEA model
+28/10/2025 1:22:33 PM : Solving FEA model
+28/10/2025 1:22:34 PM : Solving FEA model
+28/10/2025 1:22:34 PM : Solving FEA model
+28/10/2025 1:22:35 PM : Solving FEA model
+28/10/2025 1:22:36 PM : Solving FEA model
+28/10/2025 1:22:37 PM : Solving FEA model
+28/10/2025 1:22:38 PM : Solving FEA model
+28/10/2025 1:22:39 PM : Solving FEA model
+28/10/2025 1:22:40 PM : Solving FEA model
+28/10/2025 1:22:40 PM : Solving FEA model
+28/10/2025 1:22:41 PM : Solving FEA model
+28/10/2025 1:22:42 PM : Solving FEA model
+28/10/2025 1:22:43 PM : Solving FEA model
+28/10/2025 1:22:44 PM : Solving FEA model
+28/10/2025 1:22:44 PM : Solving FEA model
+28/10/2025 1:22:45 PM : Solving FEA model
+28/10/2025 1:22:46 PM : Solving FEA model
+28/10/2025 1:22:47 PM : Solving FEA model
+28/10/2025 1:22:47 PM : Solving FEA model
+28/10/2025 1:22:48 PM : Solving FEA model
+28/10/2025 1:22:49 PM : Solving FEA model
+28/10/2025 1:22:50 PM : Solving FEA model
+28/10/2025 1:22:51 PM : Solving FEA model
+28/10/2025 1:22:51 PM : Solving FEA model
+28/10/2025 1:22:52 PM : Solving FEA model
+28/10/2025 1:22:53 PM : Solving FEA model
+28/10/2025 1:22:54 PM : Solving FEA model
+28/10/2025 1:22:55 PM : Solving FEA model
+28/10/2025 1:22:55 PM : Solving FEA model
+28/10/2025 1:22:56 PM : Solving FEA model
+28/10/2025 1:22:57 PM : Solving FEA model
+28/10/2025 1:22:58 PM : Solving FEA model
+28/10/2025 1:22:59 PM : Solving FEA model
+28/10/2025 1:22:59 PM : Solving FEA model
+28/10/2025 1:23:00 PM : Solving FEA model
+28/10/2025 1:23:01 PM : Solving FEA model
+28/10/2025 1:23:02 PM : Solving FEA model
+28/10/2025 1:23:03 PM : Solving FEA model
+28/10/2025 1:23:03 PM : Solving FEA model
+28/10/2025 1:23:04 PM : Solving FEA model
+28/10/2025 1:23:05 PM : Solving FEA model
+28/10/2025 1:23:06 PM : Solving FEA model
+28/10/2025 1:23:07 PM : Solving FEA model
+28/10/2025 1:23:07 PM : FEA Calculation Time: 100 Seconds
+28/10/2025 1:23:07 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:23:08 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:23:08 PM : Solving completed
+28/10/2025 1:23:09 PM : Nodes count = 10586
+28/10/2025 1:23:09 PM : Elements count = 20860
+28/10/2025 1:23:09 PM : Status: Solving Completed
+28/10/2025 1:23:09 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:23:09 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:24:11 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 69.4736842105263
+28/10/2025 1:24:11 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:24:11 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:24:11 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:24:11 PM : Status: Solving FEA model
+28/10/2025 1:24:12 PM : Q axis current only Point Calculation
+28/10/2025 1:24:12 PM : Solving FEA model
+28/10/2025 1:24:14 PM : Load Point Calculation
+28/10/2025 1:24:14 PM : Solving FEA model
+28/10/2025 1:24:16 PM : Solving FEA model
+28/10/2025 1:24:17 PM : Solving FEA model
+28/10/2025 1:24:18 PM : Transient Back EMF Calculation
+28/10/2025 1:24:18 PM : Solving FEA model
+28/10/2025 1:25:00 PM : Cogging Torque Calculation
+28/10/2025 1:25:01 PM : Solving FEA model
+28/10/2025 1:25:02 PM : Solving FEA model
+28/10/2025 1:25:03 PM : Solving FEA model
+28/10/2025 1:25:05 PM : Solving FEA model
+28/10/2025 1:25:06 PM : Solving FEA model
+28/10/2025 1:25:07 PM : Solving FEA model
+28/10/2025 1:25:07 PM : Solving FEA model
+28/10/2025 1:25:08 PM : Solving FEA model
+28/10/2025 1:25:09 PM : Solving FEA model
+28/10/2025 1:25:10 PM : Solving FEA model
+28/10/2025 1:25:10 PM : Solving FEA model
+28/10/2025 1:25:11 PM : Solving FEA model
+28/10/2025 1:25:12 PM : Solving FEA model
+28/10/2025 1:25:13 PM : Solving FEA model
+28/10/2025 1:25:14 PM : Solving FEA model
+28/10/2025 1:25:15 PM : Solving FEA model
+28/10/2025 1:25:15 PM : Solving FEA model
+28/10/2025 1:25:16 PM : Solving FEA model
+28/10/2025 1:25:17 PM : Solving FEA model
+28/10/2025 1:25:18 PM : Solving FEA model
+28/10/2025 1:25:19 PM : Solving FEA model
+28/10/2025 1:25:20 PM : Solving FEA model
+28/10/2025 1:25:20 PM : Solving FEA model
+28/10/2025 1:25:21 PM : Solving FEA model
+28/10/2025 1:25:22 PM : Solving FEA model
+28/10/2025 1:25:23 PM : Solving FEA model
+28/10/2025 1:25:24 PM : Solving FEA model
+28/10/2025 1:25:25 PM : Solving FEA model
+28/10/2025 1:25:26 PM : Solving FEA model
+28/10/2025 1:25:26 PM : Solving FEA model
+28/10/2025 1:25:27 PM : Solving FEA model
+28/10/2025 1:25:28 PM : Solving FEA model
+28/10/2025 1:25:29 PM : Solving FEA model
+28/10/2025 1:25:30 PM : Solving FEA model
+28/10/2025 1:25:31 PM : Solving FEA model
+28/10/2025 1:25:32 PM : Solving FEA model
+28/10/2025 1:25:33 PM : Solving FEA model
+28/10/2025 1:25:34 PM : Solving FEA model
+28/10/2025 1:25:34 PM : Solving FEA model
+28/10/2025 1:25:35 PM : Solving FEA model
+28/10/2025 1:25:36 PM : Solving FEA model
+28/10/2025 1:25:37 PM : Solving FEA model
+28/10/2025 1:25:38 PM : Solving FEA model
+28/10/2025 1:25:38 PM : Solving FEA model
+28/10/2025 1:25:39 PM : Solving FEA model
+28/10/2025 1:25:40 PM : Solving FEA model
+28/10/2025 1:25:41 PM : Solving FEA model
+28/10/2025 1:25:42 PM : Solving FEA model
+28/10/2025 1:25:43 PM : Solving FEA model
+28/10/2025 1:25:43 PM : Solving FEA model
+28/10/2025 1:25:44 PM : Solving FEA model
+28/10/2025 1:25:45 PM : Solving FEA model
+28/10/2025 1:25:46 PM : Solving FEA model
+28/10/2025 1:25:47 PM : Solving FEA model
+28/10/2025 1:25:48 PM : Solving FEA model
+28/10/2025 1:25:49 PM : Solving FEA model
+28/10/2025 1:25:50 PM : Solving FEA model
+28/10/2025 1:25:51 PM : Solving FEA model
+28/10/2025 1:25:52 PM : Solving FEA model
+28/10/2025 1:25:53 PM : Solving FEA model
+28/10/2025 1:25:54 PM : Solving FEA model
+28/10/2025 1:25:55 PM : Solving FEA model
+28/10/2025 1:25:56 PM : Solving FEA model
+28/10/2025 1:25:57 PM : Solving FEA model
+28/10/2025 1:25:57 PM : FEA Calculation Time: 105 Seconds
+28/10/2025 1:25:57 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:25:58 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:25:58 PM : Solving completed
+28/10/2025 1:25:59 PM : Nodes count = 10626
+28/10/2025 1:25:59 PM : Elements count = 20940
+28/10/2025 1:25:59 PM : Status: Solving Completed
+28/10/2025 1:25:59 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:25:59 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:27:05 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 77.3684210526316
+28/10/2025 1:27:05 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:27:05 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:27:05 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:27:05 PM : Status: Solving FEA model
+28/10/2025 1:27:06 PM : Q axis current only Point Calculation
+28/10/2025 1:27:06 PM : Solving FEA model
+28/10/2025 1:27:08 PM : Load Point Calculation
+28/10/2025 1:27:09 PM : Solving FEA model
+28/10/2025 1:27:11 PM : Solving FEA model
+28/10/2025 1:27:12 PM : Solving FEA model
+28/10/2025 1:27:13 PM : Transient Back EMF Calculation
+28/10/2025 1:27:13 PM : Solving FEA model
+28/10/2025 1:27:59 PM : Cogging Torque Calculation
+28/10/2025 1:27:59 PM : Solving FEA model
+28/10/2025 1:28:00 PM : Solving FEA model
+28/10/2025 1:28:01 PM : Solving FEA model
+28/10/2025 1:28:03 PM : Solving FEA model
+28/10/2025 1:28:04 PM : Solving FEA model
+28/10/2025 1:28:05 PM : Solving FEA model
+28/10/2025 1:28:05 PM : Solving FEA model
+28/10/2025 1:28:06 PM : Solving FEA model
+28/10/2025 1:28:07 PM : Solving FEA model
+28/10/2025 1:28:08 PM : Solving FEA model
+28/10/2025 1:28:09 PM : Solving FEA model
+28/10/2025 1:28:10 PM : Solving FEA model
+28/10/2025 1:28:11 PM : Solving FEA model
+28/10/2025 1:28:12 PM : Solving FEA model
+28/10/2025 1:28:13 PM : Solving FEA model
+28/10/2025 1:28:13 PM : Solving FEA model
+28/10/2025 1:28:14 PM : Solving FEA model
+28/10/2025 1:28:15 PM : Solving FEA model
+28/10/2025 1:28:16 PM : Solving FEA model
+28/10/2025 1:28:17 PM : Solving FEA model
+28/10/2025 1:28:18 PM : Solving FEA model
+28/10/2025 1:28:19 PM : Solving FEA model
+28/10/2025 1:28:20 PM : Solving FEA model
+28/10/2025 1:28:21 PM : Solving FEA model
+28/10/2025 1:28:22 PM : Solving FEA model
+28/10/2025 1:28:23 PM : Solving FEA model
+28/10/2025 1:28:24 PM : Solving FEA model
+28/10/2025 1:28:25 PM : Solving FEA model
+28/10/2025 1:28:25 PM : Solving FEA model
+28/10/2025 1:28:26 PM : Solving FEA model
+28/10/2025 1:28:27 PM : Solving FEA model
+28/10/2025 1:28:28 PM : Solving FEA model
+28/10/2025 1:28:29 PM : Solving FEA model
+28/10/2025 1:28:30 PM : Solving FEA model
+28/10/2025 1:28:31 PM : Solving FEA model
+28/10/2025 1:28:32 PM : Solving FEA model
+28/10/2025 1:28:33 PM : Solving FEA model
+28/10/2025 1:28:34 PM : Solving FEA model
+28/10/2025 1:28:35 PM : Solving FEA model
+28/10/2025 1:28:36 PM : Solving FEA model
+28/10/2025 1:28:37 PM : Solving FEA model
+28/10/2025 1:28:38 PM : Solving FEA model
+28/10/2025 1:28:39 PM : Solving FEA model
+28/10/2025 1:28:40 PM : Solving FEA model
+28/10/2025 1:28:40 PM : Solving FEA model
+28/10/2025 1:28:41 PM : Solving FEA model
+28/10/2025 1:28:42 PM : Solving FEA model
+28/10/2025 1:28:43 PM : Solving FEA model
+28/10/2025 1:28:44 PM : Solving FEA model
+28/10/2025 1:28:45 PM : Solving FEA model
+28/10/2025 1:28:46 PM : Solving FEA model
+28/10/2025 1:28:47 PM : Solving FEA model
+28/10/2025 1:28:48 PM : Solving FEA model
+28/10/2025 1:28:49 PM : Solving FEA model
+28/10/2025 1:28:49 PM : Solving FEA model
+28/10/2025 1:28:50 PM : Solving FEA model
+28/10/2025 1:28:51 PM : Solving FEA model
+28/10/2025 1:28:52 PM : Solving FEA model
+28/10/2025 1:28:53 PM : Solving FEA model
+28/10/2025 1:28:54 PM : Solving FEA model
+28/10/2025 1:28:55 PM : Solving FEA model
+28/10/2025 1:28:56 PM : Solving FEA model
+28/10/2025 1:28:57 PM : Solving FEA model
+28/10/2025 1:28:58 PM : Solving FEA model
+28/10/2025 1:28:59 PM : FEA Calculation Time: 112 Seconds
+28/10/2025 1:28:59 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:29:00 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:29:00 PM : Solving completed
+28/10/2025 1:29:00 PM : Nodes count = 10582
+28/10/2025 1:29:00 PM : Elements count = 20852
+28/10/2025 1:29:00 PM : Status: Solving Completed
+28/10/2025 1:29:00 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:29:00 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:30:12 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 85.2631578947368
+28/10/2025 1:30:12 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:30:12 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:30:12 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:30:12 PM : Status: Solving FEA model
+28/10/2025 1:30:13 PM : Q axis current only Point Calculation
+28/10/2025 1:30:13 PM : Solving FEA model
+28/10/2025 1:30:16 PM : Load Point Calculation
+28/10/2025 1:30:16 PM : Solving FEA model
+28/10/2025 1:30:18 PM : Solving FEA model
+28/10/2025 1:30:20 PM : Solving FEA model
+28/10/2025 1:30:21 PM : Transient Back EMF Calculation
+28/10/2025 1:30:21 PM : Solving FEA model
+28/10/2025 1:31:13 PM : Cogging Torque Calculation
+28/10/2025 1:31:13 PM : Solving FEA model
+28/10/2025 1:31:15 PM : Solving FEA model
+28/10/2025 1:31:16 PM : Solving FEA model
+28/10/2025 1:31:17 PM : Solving FEA model
+28/10/2025 1:31:18 PM : Solving FEA model
+28/10/2025 1:31:20 PM : Solving FEA model
+28/10/2025 1:31:21 PM : Solving FEA model
+28/10/2025 1:31:22 PM : Solving FEA model
+28/10/2025 1:31:23 PM : Solving FEA model
+28/10/2025 1:31:24 PM : Solving FEA model
+28/10/2025 1:31:25 PM : Solving FEA model
+28/10/2025 1:31:26 PM : Solving FEA model
+28/10/2025 1:31:27 PM : Solving FEA model
+28/10/2025 1:31:28 PM : Solving FEA model
+28/10/2025 1:31:29 PM : Solving FEA model
+28/10/2025 1:31:30 PM : Solving FEA model
+28/10/2025 1:31:31 PM : Solving FEA model
+28/10/2025 1:31:32 PM : Solving FEA model
+28/10/2025 1:31:33 PM : Solving FEA model
+28/10/2025 1:31:34 PM : Solving FEA model
+28/10/2025 1:31:35 PM : Solving FEA model
+28/10/2025 1:31:36 PM : Solving FEA model
+28/10/2025 1:31:37 PM : Solving FEA model
+28/10/2025 1:31:38 PM : Solving FEA model
+28/10/2025 1:31:40 PM : Solving FEA model
+28/10/2025 1:31:41 PM : Solving FEA model
+28/10/2025 1:31:42 PM : Solving FEA model
+28/10/2025 1:31:43 PM : Solving FEA model
+28/10/2025 1:31:44 PM : Solving FEA model
+28/10/2025 1:31:45 PM : Solving FEA model
+28/10/2025 1:31:46 PM : Solving FEA model
+28/10/2025 1:31:47 PM : Solving FEA model
+28/10/2025 1:31:48 PM : Solving FEA model
+28/10/2025 1:31:49 PM : Solving FEA model
+28/10/2025 1:31:50 PM : Solving FEA model
+28/10/2025 1:31:51 PM : Solving FEA model
+28/10/2025 1:31:52 PM : Solving FEA model
+28/10/2025 1:31:53 PM : Solving FEA model
+28/10/2025 1:31:54 PM : Solving FEA model
+28/10/2025 1:31:56 PM : Solving FEA model
+28/10/2025 1:31:57 PM : Solving FEA model
+28/10/2025 1:31:58 PM : Solving FEA model
+28/10/2025 1:31:59 PM : Solving FEA model
+28/10/2025 1:32:00 PM : Solving FEA model
+28/10/2025 1:32:01 PM : Solving FEA model
+28/10/2025 1:32:02 PM : Solving FEA model
+28/10/2025 1:32:03 PM : Solving FEA model
+28/10/2025 1:32:04 PM : Solving FEA model
+28/10/2025 1:32:06 PM : Solving FEA model
+28/10/2025 1:32:07 PM : Solving FEA model
+28/10/2025 1:32:08 PM : Solving FEA model
+28/10/2025 1:32:09 PM : Solving FEA model
+28/10/2025 1:32:10 PM : Solving FEA model
+28/10/2025 1:32:11 PM : Solving FEA model
+28/10/2025 1:32:12 PM : Solving FEA model
+28/10/2025 1:32:13 PM : Solving FEA model
+28/10/2025 1:32:14 PM : Solving FEA model
+28/10/2025 1:32:15 PM : Solving FEA model
+28/10/2025 1:32:16 PM : Solving FEA model
+28/10/2025 1:32:17 PM : Solving FEA model
+28/10/2025 1:32:18 PM : Solving FEA model
+28/10/2025 1:32:20 PM : Solving FEA model
+28/10/2025 1:32:21 PM : Solving FEA model
+28/10/2025 1:32:22 PM : Solving FEA model
+28/10/2025 1:32:23 PM : FEA Calculation Time: 130 Seconds
+28/10/2025 1:32:23 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:32:24 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:32:24 PM : Solving completed
+28/10/2025 1:32:25 PM : Nodes count = 10610
+28/10/2025 1:32:25 PM : Elements count = 20908
+28/10/2025 1:32:25 PM : Status: Solving Completed
+28/10/2025 1:32:25 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:32:25 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:33:53 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 93.1578947368421
+28/10/2025 1:33:53 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:33:53 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:33:53 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:33:53 PM : Status: Solving FEA model
+28/10/2025 1:33:54 PM : Q axis current only Point Calculation
+28/10/2025 1:33:54 PM : Solving FEA model
+28/10/2025 1:33:57 PM : Load Point Calculation
+28/10/2025 1:33:57 PM : Solving FEA model
+28/10/2025 1:34:01 PM : Solving FEA model
+28/10/2025 1:34:02 PM : Solving FEA model
+28/10/2025 1:34:05 PM : Transient Back EMF Calculation
+28/10/2025 1:34:05 PM : Solving FEA model
+28/10/2025 1:35:11 PM : Cogging Torque Calculation
+28/10/2025 1:35:11 PM : Solving FEA model
+28/10/2025 1:35:14 PM : Solving FEA model
+28/10/2025 1:35:15 PM : Solving FEA model
+28/10/2025 1:35:16 PM : Solving FEA model
+28/10/2025 1:35:18 PM : Solving FEA model
+28/10/2025 1:35:19 PM : Solving FEA model
+28/10/2025 1:35:20 PM : Solving FEA model
+28/10/2025 1:35:22 PM : Solving FEA model
+28/10/2025 1:35:23 PM : Solving FEA model
+28/10/2025 1:35:24 PM : Solving FEA model
+28/10/2025 1:35:25 PM : Solving FEA model
+28/10/2025 1:35:26 PM : Solving FEA model
+28/10/2025 1:35:27 PM : Solving FEA model
+28/10/2025 1:35:29 PM : Solving FEA model
+28/10/2025 1:35:30 PM : Solving FEA model
+28/10/2025 1:35:31 PM : Solving FEA model
+28/10/2025 1:35:33 PM : Solving FEA model
+28/10/2025 1:35:34 PM : Solving FEA model
+28/10/2025 1:35:35 PM : Solving FEA model
+28/10/2025 1:35:36 PM : Solving FEA model
+28/10/2025 1:35:38 PM : Solving FEA model
+28/10/2025 1:35:39 PM : Solving FEA model
+28/10/2025 1:35:40 PM : Solving FEA model
+28/10/2025 1:35:42 PM : Solving FEA model
+28/10/2025 1:35:43 PM : Solving FEA model
+28/10/2025 1:35:44 PM : Solving FEA model
+28/10/2025 1:35:46 PM : Solving FEA model
+28/10/2025 1:35:47 PM : Solving FEA model
+28/10/2025 1:35:48 PM : Solving FEA model
+28/10/2025 1:35:50 PM : Solving FEA model
+28/10/2025 1:35:51 PM : Solving FEA model
+28/10/2025 1:35:52 PM : Solving FEA model
+28/10/2025 1:35:54 PM : Solving FEA model
+28/10/2025 1:35:55 PM : Solving FEA model
+28/10/2025 1:35:56 PM : Solving FEA model
+28/10/2025 1:35:57 PM : Solving FEA model
+28/10/2025 1:35:58 PM : Solving FEA model
+28/10/2025 1:36:00 PM : Solving FEA model
+28/10/2025 1:36:01 PM : Solving FEA model
+28/10/2025 1:36:02 PM : Solving FEA model
+28/10/2025 1:36:03 PM : Solving FEA model
+28/10/2025 1:36:05 PM : Solving FEA model
+28/10/2025 1:36:06 PM : Solving FEA model
+28/10/2025 1:36:07 PM : Solving FEA model
+28/10/2025 1:36:08 PM : Solving FEA model
+28/10/2025 1:36:10 PM : Solving FEA model
+28/10/2025 1:36:11 PM : Solving FEA model
+28/10/2025 1:36:12 PM : Solving FEA model
+28/10/2025 1:36:13 PM : Solving FEA model
+28/10/2025 1:36:15 PM : Solving FEA model
+28/10/2025 1:36:16 PM : Solving FEA model
+28/10/2025 1:36:17 PM : Solving FEA model
+28/10/2025 1:36:18 PM : Solving FEA model
+28/10/2025 1:36:20 PM : Solving FEA model
+28/10/2025 1:36:21 PM : Solving FEA model
+28/10/2025 1:36:22 PM : Solving FEA model
+28/10/2025 1:36:24 PM : Solving FEA model
+28/10/2025 1:36:25 PM : Solving FEA model
+28/10/2025 1:36:26 PM : Solving FEA model
+28/10/2025 1:36:27 PM : Solving FEA model
+28/10/2025 1:36:28 PM : Solving FEA model
+28/10/2025 1:36:30 PM : Solving FEA model
+28/10/2025 1:36:31 PM : Solving FEA model
+28/10/2025 1:36:32 PM : Solving FEA model
+28/10/2025 1:36:33 PM : FEA Calculation Time: 159 Seconds
+28/10/2025 1:36:33 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:36:35 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:36:35 PM : Solving completed
+28/10/2025 1:36:36 PM : Nodes count = 10630
+28/10/2025 1:36:36 PM : Elements count = 20948
+28/10/2025 1:36:36 PM : Status: Solving Completed
+28/10/2025 1:36:36 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:36:36 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:38:07 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 101.052631578947
+28/10/2025 1:38:07 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:38:07 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:38:07 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:38:08 PM : Status: Solving FEA model
+28/10/2025 1:38:08 PM : Q axis current only Point Calculation
+28/10/2025 1:38:09 PM : Solving FEA model
+28/10/2025 1:38:12 PM : Load Point Calculation
+28/10/2025 1:38:12 PM : Solving FEA model
+28/10/2025 1:38:16 PM : Solving FEA model
+28/10/2025 1:38:18 PM : Solving FEA model
+28/10/2025 1:38:20 PM : Transient Back EMF Calculation
+28/10/2025 1:38:21 PM : Solving FEA model
+28/10/2025 1:39:34 PM : Cogging Torque Calculation
+28/10/2025 1:39:34 PM : Solving FEA model
+28/10/2025 1:39:37 PM : Solving FEA model
+28/10/2025 1:39:39 PM : Solving FEA model
+28/10/2025 1:39:41 PM : Solving FEA model
+28/10/2025 1:39:43 PM : Solving FEA model
+28/10/2025 1:39:44 PM : Solving FEA model
+28/10/2025 1:39:46 PM : Solving FEA model
+28/10/2025 1:39:47 PM : Solving FEA model
+28/10/2025 1:39:49 PM : Solving FEA model
+28/10/2025 1:39:51 PM : Solving FEA model
+28/10/2025 1:39:52 PM : Solving FEA model
+28/10/2025 1:39:54 PM : Solving FEA model
+28/10/2025 1:39:56 PM : Solving FEA model
+28/10/2025 1:39:57 PM : Solving FEA model
+28/10/2025 1:39:58 PM : Solving FEA model
+28/10/2025 1:40:00 PM : Solving FEA model
+28/10/2025 1:40:01 PM : Solving FEA model
+28/10/2025 1:40:02 PM : Solving FEA model
+28/10/2025 1:40:03 PM : Solving FEA model
+28/10/2025 1:40:05 PM : Solving FEA model
+28/10/2025 1:40:07 PM : Solving FEA model
+28/10/2025 1:40:09 PM : Solving FEA model
+28/10/2025 1:40:10 PM : Solving FEA model
+28/10/2025 1:40:12 PM : Solving FEA model
+28/10/2025 1:40:13 PM : Solving FEA model
+28/10/2025 1:40:15 PM : Solving FEA model
+28/10/2025 1:40:17 PM : Solving FEA model
+28/10/2025 1:40:19 PM : Solving FEA model
+28/10/2025 1:40:20 PM : Solving FEA model
+28/10/2025 1:40:22 PM : Solving FEA model
+28/10/2025 1:40:23 PM : Solving FEA model
+28/10/2025 1:40:25 PM : Solving FEA model
+28/10/2025 1:40:27 PM : Solving FEA model
+28/10/2025 1:40:28 PM : Solving FEA model
+28/10/2025 1:40:30 PM : Solving FEA model
+28/10/2025 1:40:32 PM : Solving FEA model
+28/10/2025 1:40:33 PM : Solving FEA model
+28/10/2025 1:40:35 PM : Solving FEA model
+28/10/2025 1:40:37 PM : Solving FEA model
+28/10/2025 1:40:38 PM : Solving FEA model
+28/10/2025 1:40:40 PM : Solving FEA model
+28/10/2025 1:40:42 PM : Solving FEA model
+28/10/2025 1:40:43 PM : Solving FEA model
+28/10/2025 1:40:45 PM : Solving FEA model
+28/10/2025 1:40:47 PM : Solving FEA model
+28/10/2025 1:40:49 PM : Solving FEA model
+28/10/2025 1:40:51 PM : Solving FEA model
+28/10/2025 1:40:53 PM : Solving FEA model
+28/10/2025 1:40:55 PM : Solving FEA model
+28/10/2025 1:40:57 PM : Solving FEA model
+28/10/2025 1:40:59 PM : Solving FEA model
+28/10/2025 1:41:01 PM : Solving FEA model
+28/10/2025 1:41:03 PM : Solving FEA model
+28/10/2025 1:41:04 PM : Solving FEA model
+28/10/2025 1:41:06 PM : Solving FEA model
+28/10/2025 1:41:08 PM : Solving FEA model
+28/10/2025 1:41:10 PM : Solving FEA model
+28/10/2025 1:41:12 PM : Solving FEA model
+28/10/2025 1:41:14 PM : Solving FEA model
+28/10/2025 1:41:15 PM : Solving FEA model
+28/10/2025 1:41:17 PM : Solving FEA model
+28/10/2025 1:41:19 PM : Solving FEA model
+28/10/2025 1:41:21 PM : Solving FEA model
+28/10/2025 1:41:23 PM : Solving FEA model
+28/10/2025 1:41:25 PM : FEA Calculation Time: 196 Seconds
+28/10/2025 1:41:25 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:41:27 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:41:27 PM : Solving completed
+28/10/2025 1:41:28 PM : Nodes count = 10564
+28/10/2025 1:41:28 PM : Elements count = 20816
+28/10/2025 1:41:29 PM : Status: Solving Completed
+28/10/2025 1:41:29 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:41:29 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:43:41 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 108.947368421053
+28/10/2025 1:43:41 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:43:41 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:43:41 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:43:41 PM : Status: Solving FEA model
+28/10/2025 1:43:42 PM : Q axis current only Point Calculation
+28/10/2025 1:43:42 PM : Solving FEA model
+28/10/2025 1:43:48 PM : Load Point Calculation
+28/10/2025 1:43:48 PM : Solving FEA model
+28/10/2025 1:43:53 PM : Solving FEA model
+28/10/2025 1:43:56 PM : Solving FEA model
+28/10/2025 1:44:00 PM : Transient Back EMF Calculation
+28/10/2025 1:44:00 PM : Solving FEA model
+28/10/2025 1:45:29 PM : Cogging Torque Calculation
+28/10/2025 1:45:30 PM : Solving FEA model
+28/10/2025 1:45:32 PM : Solving FEA model
+28/10/2025 1:45:33 PM : Solving FEA model
+28/10/2025 1:45:36 PM : Solving FEA model
+28/10/2025 1:45:38 PM : Solving FEA model
+28/10/2025 1:45:40 PM : Solving FEA model
+28/10/2025 1:45:41 PM : Solving FEA model
+28/10/2025 1:45:43 PM : Solving FEA model
+28/10/2025 1:45:44 PM : Solving FEA model
+28/10/2025 1:45:46 PM : Solving FEA model
+28/10/2025 1:45:48 PM : Solving FEA model
+28/10/2025 1:45:49 PM : Solving FEA model
+28/10/2025 1:45:51 PM : Solving FEA model
+28/10/2025 1:45:53 PM : Solving FEA model
+28/10/2025 1:45:54 PM : Solving FEA model
+28/10/2025 1:45:56 PM : Solving FEA model
+28/10/2025 1:45:58 PM : Solving FEA model
+28/10/2025 1:45:59 PM : Solving FEA model
+28/10/2025 1:46:01 PM : Solving FEA model
+28/10/2025 1:46:02 PM : Solving FEA model
+28/10/2025 1:46:04 PM : Solving FEA model
+28/10/2025 1:46:05 PM : Solving FEA model
+28/10/2025 1:46:07 PM : Solving FEA model
+28/10/2025 1:46:08 PM : Solving FEA model
+28/10/2025 1:46:10 PM : Solving FEA model
+28/10/2025 1:46:11 PM : Solving FEA model
+28/10/2025 1:46:13 PM : Solving FEA model
+28/10/2025 1:46:14 PM : Solving FEA model
+28/10/2025 1:46:15 PM : Solving FEA model
+28/10/2025 1:46:17 PM : Solving FEA model
+28/10/2025 1:46:18 PM : Solving FEA model
+28/10/2025 1:46:20 PM : Solving FEA model
+28/10/2025 1:46:21 PM : Solving FEA model
+28/10/2025 1:46:23 PM : Solving FEA model
+28/10/2025 1:46:24 PM : Solving FEA model
+28/10/2025 1:46:25 PM : Solving FEA model
+28/10/2025 1:46:27 PM : Solving FEA model
+28/10/2025 1:46:29 PM : Solving FEA model
+28/10/2025 1:46:30 PM : Solving FEA model
+28/10/2025 1:46:32 PM : Solving FEA model
+28/10/2025 1:46:34 PM : Solving FEA model
+28/10/2025 1:46:35 PM : Solving FEA model
+28/10/2025 1:46:36 PM : Solving FEA model
+28/10/2025 1:46:38 PM : Solving FEA model
+28/10/2025 1:46:39 PM : Solving FEA model
+28/10/2025 1:46:40 PM : Solving FEA model
+28/10/2025 1:46:42 PM : Solving FEA model
+28/10/2025 1:46:44 PM : Solving FEA model
+28/10/2025 1:46:45 PM : Solving FEA model
+28/10/2025 1:46:46 PM : Solving FEA model
+28/10/2025 1:46:48 PM : Solving FEA model
+28/10/2025 1:46:49 PM : Solving FEA model
+28/10/2025 1:46:51 PM : Solving FEA model
+28/10/2025 1:46:52 PM : Solving FEA model
+28/10/2025 1:46:53 PM : Solving FEA model
+28/10/2025 1:46:55 PM : Solving FEA model
+28/10/2025 1:46:56 PM : Solving FEA model
+28/10/2025 1:46:58 PM : Solving FEA model
+28/10/2025 1:46:59 PM : Solving FEA model
+28/10/2025 1:47:00 PM : Solving FEA model
+28/10/2025 1:47:02 PM : Solving FEA model
+28/10/2025 1:47:04 PM : Solving FEA model
+28/10/2025 1:47:05 PM : Solving FEA model
+28/10/2025 1:47:06 PM : Solving FEA model
+28/10/2025 1:47:08 PM : FEA Calculation Time: 205 Seconds
+28/10/2025 1:47:08 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:47:09 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:47:10 PM : Solving completed
+28/10/2025 1:47:10 PM : Nodes count = 10572
+28/10/2025 1:47:10 PM : Elements count = 20832
+28/10/2025 1:47:10 PM : Status: Solving Completed
+28/10/2025 1:47:10 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:47:10 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:49:06 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 116.842105263158
+28/10/2025 1:49:06 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:49:06 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:49:06 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:49:06 PM : Status: Solving FEA model
+28/10/2025 1:49:07 PM : Q axis current only Point Calculation
+28/10/2025 1:49:07 PM : Solving FEA model
+28/10/2025 1:49:10 PM : Load Point Calculation
+28/10/2025 1:49:11 PM : Solving FEA model
+28/10/2025 1:49:14 PM : Solving FEA model
+28/10/2025 1:49:15 PM : Solving FEA model
+28/10/2025 1:49:18 PM : Transient Back EMF Calculation
+28/10/2025 1:49:18 PM : Solving FEA model
+28/10/2025 1:50:17 PM : Cogging Torque Calculation
+28/10/2025 1:50:17 PM : Solving FEA model
+28/10/2025 1:50:19 PM : Solving FEA model
+28/10/2025 1:50:20 PM : Solving FEA model
+28/10/2025 1:50:22 PM : Solving FEA model
+28/10/2025 1:50:23 PM : Solving FEA model
+28/10/2025 1:50:24 PM : Solving FEA model
+28/10/2025 1:50:25 PM : Solving FEA model
+28/10/2025 1:50:26 PM : Solving FEA model
+28/10/2025 1:50:27 PM : Solving FEA model
+28/10/2025 1:50:29 PM : Solving FEA model
+28/10/2025 1:50:30 PM : Solving FEA model
+28/10/2025 1:50:31 PM : Solving FEA model
+28/10/2025 1:50:32 PM : Solving FEA model
+28/10/2025 1:50:33 PM : Solving FEA model
+28/10/2025 1:50:34 PM : Solving FEA model
+28/10/2025 1:50:35 PM : Solving FEA model
+28/10/2025 1:50:36 PM : Solving FEA model
+28/10/2025 1:50:37 PM : Solving FEA model
+28/10/2025 1:50:38 PM : Solving FEA model
+28/10/2025 1:50:39 PM : Solving FEA model
+28/10/2025 1:50:40 PM : Solving FEA model
+28/10/2025 1:50:41 PM : Solving FEA model
+28/10/2025 1:50:42 PM : Solving FEA model
+28/10/2025 1:50:43 PM : Solving FEA model
+28/10/2025 1:50:44 PM : Solving FEA model
+28/10/2025 1:50:45 PM : Solving FEA model
+28/10/2025 1:50:46 PM : Solving FEA model
+28/10/2025 1:50:47 PM : Solving FEA model
+28/10/2025 1:50:48 PM : Solving FEA model
+28/10/2025 1:50:49 PM : Solving FEA model
+28/10/2025 1:50:50 PM : Solving FEA model
+28/10/2025 1:50:52 PM : Solving FEA model
+28/10/2025 1:50:53 PM : Solving FEA model
+28/10/2025 1:50:54 PM : Solving FEA model
+28/10/2025 1:50:55 PM : Solving FEA model
+28/10/2025 1:50:56 PM : Solving FEA model
+28/10/2025 1:50:57 PM : Solving FEA model
+28/10/2025 1:50:58 PM : Solving FEA model
+28/10/2025 1:50:59 PM : Solving FEA model
+28/10/2025 1:51:00 PM : Solving FEA model
+28/10/2025 1:51:01 PM : Solving FEA model
+28/10/2025 1:51:02 PM : Solving FEA model
+28/10/2025 1:51:03 PM : Solving FEA model
+28/10/2025 1:51:04 PM : Solving FEA model
+28/10/2025 1:51:05 PM : Solving FEA model
+28/10/2025 1:51:06 PM : Solving FEA model
+28/10/2025 1:51:07 PM : Solving FEA model
+28/10/2025 1:51:08 PM : Solving FEA model
+28/10/2025 1:51:09 PM : Solving FEA model
+28/10/2025 1:51:10 PM : Solving FEA model
+28/10/2025 1:51:11 PM : Solving FEA model
+28/10/2025 1:51:13 PM : Solving FEA model
+28/10/2025 1:51:14 PM : Solving FEA model
+28/10/2025 1:51:15 PM : Solving FEA model
+28/10/2025 1:51:15 PM : Solving FEA model
+28/10/2025 1:51:16 PM : Solving FEA model
+28/10/2025 1:51:18 PM : Solving FEA model
+28/10/2025 1:51:19 PM : Solving FEA model
+28/10/2025 1:51:20 PM : Solving FEA model
+28/10/2025 1:51:21 PM : Solving FEA model
+28/10/2025 1:51:21 PM : Solving FEA model
+28/10/2025 1:51:22 PM : Solving FEA model
+28/10/2025 1:51:23 PM : Solving FEA model
+28/10/2025 1:51:24 PM : Solving FEA model
+28/10/2025 1:51:25 PM : FEA Calculation Time: 138 Seconds
+28/10/2025 1:51:25 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:51:26 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:51:27 PM : Solving completed
+28/10/2025 1:51:27 PM : Nodes count = 10576
+28/10/2025 1:51:27 PM : Elements count = 20840
+28/10/2025 1:51:27 PM : Status: Solving Completed
+28/10/2025 1:51:27 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:51:27 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:52:59 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 124.736842105263
+28/10/2025 1:52:59 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:52:59 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:52:59 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:52:59 PM : Status: Solving FEA model
+28/10/2025 1:53:00 PM : Q axis current only Point Calculation
+28/10/2025 1:53:00 PM : Solving FEA model
+28/10/2025 1:53:02 PM : Load Point Calculation
+28/10/2025 1:53:02 PM : Solving FEA model
+28/10/2025 1:53:05 PM : Solving FEA model
+28/10/2025 1:53:06 PM : Solving FEA model
+28/10/2025 1:53:07 PM : Transient Back EMF Calculation
+28/10/2025 1:53:07 PM : Solving FEA model
+28/10/2025 1:53:57 PM : Cogging Torque Calculation
+28/10/2025 1:53:57 PM : Solving FEA model
+28/10/2025 1:53:59 PM : Solving FEA model
+28/10/2025 1:53:59 PM : Solving FEA model
+28/10/2025 1:54:01 PM : Solving FEA model
+28/10/2025 1:54:02 PM : Solving FEA model
+28/10/2025 1:54:03 PM : Solving FEA model
+28/10/2025 1:54:04 PM : Solving FEA model
+28/10/2025 1:54:05 PM : Solving FEA model
+28/10/2025 1:54:06 PM : Solving FEA model
+28/10/2025 1:54:07 PM : Solving FEA model
+28/10/2025 1:54:08 PM : Solving FEA model
+28/10/2025 1:54:09 PM : Solving FEA model
+28/10/2025 1:54:10 PM : Solving FEA model
+28/10/2025 1:54:10 PM : Solving FEA model
+28/10/2025 1:54:11 PM : Solving FEA model
+28/10/2025 1:54:12 PM : Solving FEA model
+28/10/2025 1:54:13 PM : Solving FEA model
+28/10/2025 1:54:14 PM : Solving FEA model
+28/10/2025 1:54:15 PM : Solving FEA model
+28/10/2025 1:54:16 PM : Solving FEA model
+28/10/2025 1:54:17 PM : Solving FEA model
+28/10/2025 1:54:18 PM : Solving FEA model
+28/10/2025 1:54:19 PM : Solving FEA model
+28/10/2025 1:54:20 PM : Solving FEA model
+28/10/2025 1:54:21 PM : Solving FEA model
+28/10/2025 1:54:22 PM : Solving FEA model
+28/10/2025 1:54:22 PM : Solving FEA model
+28/10/2025 1:54:23 PM : Solving FEA model
+28/10/2025 1:54:24 PM : Solving FEA model
+28/10/2025 1:54:25 PM : Solving FEA model
+28/10/2025 1:54:26 PM : Solving FEA model
+28/10/2025 1:54:27 PM : Solving FEA model
+28/10/2025 1:54:28 PM : Solving FEA model
+28/10/2025 1:54:29 PM : Solving FEA model
+28/10/2025 1:54:30 PM : Solving FEA model
+28/10/2025 1:54:31 PM : Solving FEA model
+28/10/2025 1:54:31 PM : Solving FEA model
+28/10/2025 1:54:32 PM : Solving FEA model
+28/10/2025 1:54:33 PM : Solving FEA model
+28/10/2025 1:54:34 PM : Solving FEA model
+28/10/2025 1:54:35 PM : Solving FEA model
+28/10/2025 1:54:36 PM : Solving FEA model
+28/10/2025 1:54:37 PM : Solving FEA model
+28/10/2025 1:54:38 PM : Solving FEA model
+28/10/2025 1:54:39 PM : Solving FEA model
+28/10/2025 1:54:40 PM : Solving FEA model
+28/10/2025 1:54:41 PM : Solving FEA model
+28/10/2025 1:54:42 PM : Solving FEA model
+28/10/2025 1:54:43 PM : Solving FEA model
+28/10/2025 1:54:44 PM : Solving FEA model
+28/10/2025 1:54:45 PM : Solving FEA model
+28/10/2025 1:54:46 PM : Solving FEA model
+28/10/2025 1:54:47 PM : Solving FEA model
+28/10/2025 1:54:47 PM : Solving FEA model
+28/10/2025 1:54:48 PM : Solving FEA model
+28/10/2025 1:54:49 PM : Solving FEA model
+28/10/2025 1:54:50 PM : Solving FEA model
+28/10/2025 1:54:51 PM : Solving FEA model
+28/10/2025 1:54:52 PM : Solving FEA model
+28/10/2025 1:54:53 PM : Solving FEA model
+28/10/2025 1:54:54 PM : Solving FEA model
+28/10/2025 1:54:55 PM : Solving FEA model
+28/10/2025 1:54:55 PM : Solving FEA model
+28/10/2025 1:54:56 PM : Solving FEA model
+28/10/2025 1:54:57 PM : FEA Calculation Time: 117 Seconds
+28/10/2025 1:54:57 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:54:58 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:54:58 PM : Solving completed
+28/10/2025 1:54:59 PM : Nodes count = 10656
+28/10/2025 1:54:59 PM : Elements count = 21000
+28/10/2025 1:54:59 PM : Status: Solving Completed
+28/10/2025 1:54:59 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:54:59 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:56:30 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 132.631578947368
+28/10/2025 1:56:30 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:56:30 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:56:30 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:56:30 PM : Status: Solving FEA model
+28/10/2025 1:56:31 PM : Q axis current only Point Calculation
+28/10/2025 1:56:31 PM : Solving FEA model
+28/10/2025 1:56:33 PM : Load Point Calculation
+28/10/2025 1:56:33 PM : Solving FEA model
+28/10/2025 1:56:36 PM : Solving FEA model
+28/10/2025 1:56:37 PM : Solving FEA model
+28/10/2025 1:56:38 PM : Transient Back EMF Calculation
+28/10/2025 1:56:38 PM : Solving FEA model
+28/10/2025 1:57:24 PM : Cogging Torque Calculation
+28/10/2025 1:57:24 PM : Solving FEA model
+28/10/2025 1:57:26 PM : Solving FEA model
+28/10/2025 1:57:27 PM : Solving FEA model
+28/10/2025 1:57:28 PM : Solving FEA model
+28/10/2025 1:57:29 PM : Solving FEA model
+28/10/2025 1:57:30 PM : Solving FEA model
+28/10/2025 1:57:31 PM : Solving FEA model
+28/10/2025 1:57:32 PM : Solving FEA model
+28/10/2025 1:57:33 PM : Solving FEA model
+28/10/2025 1:57:34 PM : Solving FEA model
+28/10/2025 1:57:35 PM : Solving FEA model
+28/10/2025 1:57:35 PM : Solving FEA model
+28/10/2025 1:57:36 PM : Solving FEA model
+28/10/2025 1:57:37 PM : Solving FEA model
+28/10/2025 1:57:38 PM : Solving FEA model
+28/10/2025 1:57:39 PM : Solving FEA model
+28/10/2025 1:57:40 PM : Solving FEA model
+28/10/2025 1:57:41 PM : Solving FEA model
+28/10/2025 1:57:42 PM : Solving FEA model
+28/10/2025 1:57:43 PM : Solving FEA model
+28/10/2025 1:57:43 PM : Solving FEA model
+28/10/2025 1:57:44 PM : Solving FEA model
+28/10/2025 1:57:45 PM : Solving FEA model
+28/10/2025 1:57:46 PM : Solving FEA model
+28/10/2025 1:57:47 PM : Solving FEA model
+28/10/2025 1:57:48 PM : Solving FEA model
+28/10/2025 1:57:48 PM : Solving FEA model
+28/10/2025 1:57:49 PM : Solving FEA model
+28/10/2025 1:57:50 PM : Solving FEA model
+28/10/2025 1:57:51 PM : Solving FEA model
+28/10/2025 1:57:52 PM : Solving FEA model
+28/10/2025 1:57:53 PM : Solving FEA model
+28/10/2025 1:57:54 PM : Solving FEA model
+28/10/2025 1:57:54 PM : Solving FEA model
+28/10/2025 1:57:55 PM : Solving FEA model
+28/10/2025 1:57:56 PM : Solving FEA model
+28/10/2025 1:57:57 PM : Solving FEA model
+28/10/2025 1:57:58 PM : Solving FEA model
+28/10/2025 1:57:59 PM : Solving FEA model
+28/10/2025 1:58:00 PM : Solving FEA model
+28/10/2025 1:58:01 PM : Solving FEA model
+28/10/2025 1:58:02 PM : Solving FEA model
+28/10/2025 1:58:03 PM : Solving FEA model
+28/10/2025 1:58:04 PM : Solving FEA model
+28/10/2025 1:58:05 PM : Solving FEA model
+28/10/2025 1:58:05 PM : Solving FEA model
+28/10/2025 1:58:06 PM : Solving FEA model
+28/10/2025 1:58:07 PM : Solving FEA model
+28/10/2025 1:58:08 PM : Solving FEA model
+28/10/2025 1:58:09 PM : Solving FEA model
+28/10/2025 1:58:10 PM : Solving FEA model
+28/10/2025 1:58:11 PM : Solving FEA model
+28/10/2025 1:58:12 PM : Solving FEA model
+28/10/2025 1:58:12 PM : Solving FEA model
+28/10/2025 1:58:13 PM : Solving FEA model
+28/10/2025 1:58:14 PM : Solving FEA model
+28/10/2025 1:58:15 PM : Solving FEA model
+28/10/2025 1:58:16 PM : Solving FEA model
+28/10/2025 1:58:17 PM : Solving FEA model
+28/10/2025 1:58:17 PM : Solving FEA model
+28/10/2025 1:58:18 PM : Solving FEA model
+28/10/2025 1:58:19 PM : Solving FEA model
+28/10/2025 1:58:20 PM : Solving FEA model
+28/10/2025 1:58:21 PM : Solving FEA model
+28/10/2025 1:58:22 PM : FEA Calculation Time: 111 Seconds
+28/10/2025 1:58:22 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 1:58:23 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 1:58:23 PM : Solving completed
+28/10/2025 1:58:23 PM : Nodes count = 10664
+28/10/2025 1:58:23 PM : Elements count = 21016
+28/10/2025 1:58:24 PM : Status: Solving Completed
+28/10/2025 1:58:24 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 1:58:24 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 1:59:36 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 140.526315789474
+28/10/2025 1:59:36 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 1:59:36 PM : pymotorcad: show_magnetic_context
+28/10/2025 1:59:37 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 1:59:37 PM : Status: Solving FEA model
+28/10/2025 1:59:37 PM : Q axis current only Point Calculation
+28/10/2025 1:59:37 PM : Solving FEA model
+28/10/2025 1:59:39 PM : Load Point Calculation
+28/10/2025 1:59:39 PM : Solving FEA model
+28/10/2025 1:59:41 PM : Solving FEA model
+28/10/2025 1:59:42 PM : Solving FEA model
+28/10/2025 1:59:43 PM : Transient Back EMF Calculation
+28/10/2025 1:59:43 PM : Solving FEA model
+28/10/2025 2:00:20 PM : Cogging Torque Calculation
+28/10/2025 2:00:20 PM : Solving FEA model
+28/10/2025 2:00:21 PM : Solving FEA model
+28/10/2025 2:00:22 PM : Solving FEA model
+28/10/2025 2:00:23 PM : Solving FEA model
+28/10/2025 2:00:24 PM : Solving FEA model
+28/10/2025 2:00:24 PM : Solving FEA model
+28/10/2025 2:00:25 PM : Solving FEA model
+28/10/2025 2:00:26 PM : Solving FEA model
+28/10/2025 2:00:27 PM : Solving FEA model
+28/10/2025 2:00:27 PM : Solving FEA model
+28/10/2025 2:00:28 PM : Solving FEA model
+28/10/2025 2:00:29 PM : Solving FEA model
+28/10/2025 2:00:30 PM : Solving FEA model
+28/10/2025 2:00:30 PM : Solving FEA model
+28/10/2025 2:00:31 PM : Solving FEA model
+28/10/2025 2:00:32 PM : Solving FEA model
+28/10/2025 2:00:32 PM : Solving FEA model
+28/10/2025 2:00:33 PM : Solving FEA model
+28/10/2025 2:00:34 PM : Solving FEA model
+28/10/2025 2:00:34 PM : Solving FEA model
+28/10/2025 2:00:35 PM : Solving FEA model
+28/10/2025 2:00:36 PM : Solving FEA model
+28/10/2025 2:00:36 PM : Solving FEA model
+28/10/2025 2:00:37 PM : Solving FEA model
+28/10/2025 2:00:38 PM : Solving FEA model
+28/10/2025 2:00:38 PM : Solving FEA model
+28/10/2025 2:00:39 PM : Solving FEA model
+28/10/2025 2:00:40 PM : Solving FEA model
+28/10/2025 2:00:41 PM : Solving FEA model
+28/10/2025 2:00:41 PM : Solving FEA model
+28/10/2025 2:00:42 PM : Solving FEA model
+28/10/2025 2:00:43 PM : Solving FEA model
+28/10/2025 2:00:43 PM : Solving FEA model
+28/10/2025 2:00:44 PM : Solving FEA model
+28/10/2025 2:00:45 PM : Solving FEA model
+28/10/2025 2:00:46 PM : Solving FEA model
+28/10/2025 2:00:46 PM : Solving FEA model
+28/10/2025 2:00:47 PM : Solving FEA model
+28/10/2025 2:00:48 PM : Solving FEA model
+28/10/2025 2:00:48 PM : Solving FEA model
+28/10/2025 2:00:49 PM : Solving FEA model
+28/10/2025 2:00:50 PM : Solving FEA model
+28/10/2025 2:00:51 PM : Solving FEA model
+28/10/2025 2:00:51 PM : Solving FEA model
+28/10/2025 2:00:52 PM : Solving FEA model
+28/10/2025 2:00:53 PM : Solving FEA model
+28/10/2025 2:00:54 PM : Solving FEA model
+28/10/2025 2:00:54 PM : Solving FEA model
+28/10/2025 2:00:55 PM : Solving FEA model
+28/10/2025 2:00:56 PM : Solving FEA model
+28/10/2025 2:00:56 PM : Solving FEA model
+28/10/2025 2:00:57 PM : Solving FEA model
+28/10/2025 2:00:58 PM : Solving FEA model
+28/10/2025 2:00:58 PM : Solving FEA model
+28/10/2025 2:00:59 PM : Solving FEA model
+28/10/2025 2:01:00 PM : Solving FEA model
+28/10/2025 2:01:00 PM : Solving FEA model
+28/10/2025 2:01:01 PM : Solving FEA model
+28/10/2025 2:01:02 PM : Solving FEA model
+28/10/2025 2:01:02 PM : Solving FEA model
+28/10/2025 2:01:03 PM : Solving FEA model
+28/10/2025 2:01:04 PM : Solving FEA model
+28/10/2025 2:01:05 PM : Solving FEA model
+28/10/2025 2:01:06 PM : Solving FEA model
+28/10/2025 2:01:06 PM : FEA Calculation Time: 89 Seconds
+28/10/2025 2:01:06 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 2:01:07 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 2:01:07 PM : Solving completed
+28/10/2025 2:01:07 PM : Nodes count = 10623
+28/10/2025 2:01:07 PM : Elements count = 20934
+28/10/2025 2:01:08 PM : Status: Solving Completed
+28/10/2025 2:01:08 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 2:01:08 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 2:02:16 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 148.421052631579
+28/10/2025 2:02:16 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 2:02:16 PM : pymotorcad: show_magnetic_context
+28/10/2025 2:02:16 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 2:02:16 PM : Status: Solving FEA model
+28/10/2025 2:02:17 PM : Q axis current only Point Calculation
+28/10/2025 2:02:17 PM : Solving FEA model
+28/10/2025 2:02:19 PM : Load Point Calculation
+28/10/2025 2:02:19 PM : Solving FEA model
+28/10/2025 2:02:21 PM : Solving FEA model
+28/10/2025 2:02:21 PM : Solving FEA model
+28/10/2025 2:02:22 PM : Transient Back EMF Calculation
+28/10/2025 2:02:22 PM : Solving FEA model
+28/10/2025 2:02:59 PM : Cogging Torque Calculation
+28/10/2025 2:02:59 PM : Solving FEA model
+28/10/2025 2:03:00 PM : Solving FEA model
+28/10/2025 2:03:01 PM : Solving FEA model
+28/10/2025 2:03:02 PM : Solving FEA model
+28/10/2025 2:03:03 PM : Solving FEA model
+28/10/2025 2:03:03 PM : Solving FEA model
+28/10/2025 2:03:04 PM : Solving FEA model
+28/10/2025 2:03:05 PM : Solving FEA model
+28/10/2025 2:03:05 PM : Solving FEA model
+28/10/2025 2:03:06 PM : Solving FEA model
+28/10/2025 2:03:07 PM : Solving FEA model
+28/10/2025 2:03:07 PM : Solving FEA model
+28/10/2025 2:03:08 PM : Solving FEA model
+28/10/2025 2:03:09 PM : Solving FEA model
+28/10/2025 2:03:09 PM : Solving FEA model
+28/10/2025 2:03:10 PM : Solving FEA model
+28/10/2025 2:03:11 PM : Solving FEA model
+28/10/2025 2:03:11 PM : Solving FEA model
+28/10/2025 2:03:12 PM : Solving FEA model
+28/10/2025 2:03:13 PM : Solving FEA model
+28/10/2025 2:03:13 PM : Solving FEA model
+28/10/2025 2:03:14 PM : Solving FEA model
+28/10/2025 2:03:15 PM : Solving FEA model
+28/10/2025 2:03:15 PM : Solving FEA model
+28/10/2025 2:03:16 PM : Solving FEA model
+28/10/2025 2:03:17 PM : Solving FEA model
+28/10/2025 2:03:18 PM : Solving FEA model
+28/10/2025 2:03:18 PM : Solving FEA model
+28/10/2025 2:03:19 PM : Solving FEA model
+28/10/2025 2:03:20 PM : Solving FEA model
+28/10/2025 2:03:20 PM : Solving FEA model
+28/10/2025 2:03:21 PM : Solving FEA model
+28/10/2025 2:03:22 PM : Solving FEA model
+28/10/2025 2:03:22 PM : Solving FEA model
+28/10/2025 2:03:23 PM : Solving FEA model
+28/10/2025 2:03:24 PM : Solving FEA model
+28/10/2025 2:03:25 PM : Solving FEA model
+28/10/2025 2:03:25 PM : Solving FEA model
+28/10/2025 2:03:26 PM : Solving FEA model
+28/10/2025 2:03:27 PM : Solving FEA model
+28/10/2025 2:03:27 PM : Solving FEA model
+28/10/2025 2:03:28 PM : Solving FEA model
+28/10/2025 2:03:29 PM : Solving FEA model
+28/10/2025 2:03:29 PM : Solving FEA model
+28/10/2025 2:03:30 PM : Solving FEA model
+28/10/2025 2:03:31 PM : Solving FEA model
+28/10/2025 2:03:31 PM : Solving FEA model
+28/10/2025 2:03:32 PM : Solving FEA model
+28/10/2025 2:03:33 PM : Solving FEA model
+28/10/2025 2:03:33 PM : Solving FEA model
+28/10/2025 2:03:34 PM : Solving FEA model
+28/10/2025 2:03:35 PM : Solving FEA model
+28/10/2025 2:03:35 PM : Solving FEA model
+28/10/2025 2:03:36 PM : Solving FEA model
+28/10/2025 2:03:37 PM : Solving FEA model
+28/10/2025 2:03:37 PM : Solving FEA model
+28/10/2025 2:03:38 PM : Solving FEA model
+28/10/2025 2:03:39 PM : Solving FEA model
+28/10/2025 2:03:39 PM : Solving FEA model
+28/10/2025 2:03:40 PM : Solving FEA model
+28/10/2025 2:03:41 PM : Solving FEA model
+28/10/2025 2:03:42 PM : Solving FEA model
+28/10/2025 2:03:42 PM : Solving FEA model
+28/10/2025 2:03:43 PM : Solving FEA model
+28/10/2025 2:03:44 PM : FEA Calculation Time: 87 Seconds
+28/10/2025 2:03:44 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 2:03:45 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 2:03:45 PM : Solving completed
+28/10/2025 2:03:45 PM : Nodes count = 10568
+28/10/2025 2:03:45 PM : Elements count = 20824
+28/10/2025 2:03:45 PM : Status: Solving Completed
+28/10/2025 2:03:45 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 2:03:45 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 2:04:53 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 156.315789473684
+28/10/2025 2:04:53 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 2:04:53 PM : pymotorcad: show_magnetic_context
+28/10/2025 2:04:53 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 2:04:54 PM : Status: Solving FEA model
+28/10/2025 2:04:54 PM : Q axis current only Point Calculation
+28/10/2025 2:04:54 PM : Solving FEA model
+28/10/2025 2:04:56 PM : Load Point Calculation
+28/10/2025 2:04:56 PM : Solving FEA model
+28/10/2025 2:04:58 PM : Solving FEA model
+28/10/2025 2:04:59 PM : Solving FEA model
+28/10/2025 2:05:00 PM : Transient Back EMF Calculation
+28/10/2025 2:05:00 PM : Solving FEA model
+28/10/2025 2:05:36 PM : Cogging Torque Calculation
+28/10/2025 2:05:37 PM : Solving FEA model
+28/10/2025 2:05:38 PM : Solving FEA model
+28/10/2025 2:05:38 PM : Solving FEA model
+28/10/2025 2:05:40 PM : Solving FEA model
+28/10/2025 2:05:40 PM : Solving FEA model
+28/10/2025 2:05:41 PM : Solving FEA model
+28/10/2025 2:05:42 PM : Solving FEA model
+28/10/2025 2:05:42 PM : Solving FEA model
+28/10/2025 2:05:43 PM : Solving FEA model
+28/10/2025 2:05:44 PM : Solving FEA model
+28/10/2025 2:05:44 PM : Solving FEA model
+28/10/2025 2:05:45 PM : Solving FEA model
+28/10/2025 2:05:46 PM : Solving FEA model
+28/10/2025 2:05:46 PM : Solving FEA model
+28/10/2025 2:05:47 PM : Solving FEA model
+28/10/2025 2:05:48 PM : Solving FEA model
+28/10/2025 2:05:48 PM : Solving FEA model
+28/10/2025 2:05:49 PM : Solving FEA model
+28/10/2025 2:05:50 PM : Solving FEA model
+28/10/2025 2:05:51 PM : Solving FEA model
+28/10/2025 2:05:51 PM : Solving FEA model
+28/10/2025 2:05:52 PM : Solving FEA model
+28/10/2025 2:05:53 PM : Solving FEA model
+28/10/2025 2:05:53 PM : Solving FEA model
+28/10/2025 2:05:54 PM : Solving FEA model
+28/10/2025 2:05:55 PM : Solving FEA model
+28/10/2025 2:05:55 PM : Solving FEA model
+28/10/2025 2:05:56 PM : Solving FEA model
+28/10/2025 2:05:57 PM : Solving FEA model
+28/10/2025 2:05:57 PM : Solving FEA model
+28/10/2025 2:05:58 PM : Solving FEA model
+28/10/2025 2:05:59 PM : Solving FEA model
+28/10/2025 2:06:00 PM : Solving FEA model
+28/10/2025 2:06:00 PM : Solving FEA model
+28/10/2025 2:06:01 PM : Solving FEA model
+28/10/2025 2:06:02 PM : Solving FEA model
+28/10/2025 2:06:02 PM : Solving FEA model
+28/10/2025 2:06:03 PM : Solving FEA model
+28/10/2025 2:06:04 PM : Solving FEA model
+28/10/2025 2:06:04 PM : Solving FEA model
+28/10/2025 2:06:05 PM : Solving FEA model
+28/10/2025 2:06:06 PM : Solving FEA model
+28/10/2025 2:06:06 PM : Solving FEA model
+28/10/2025 2:06:07 PM : Solving FEA model
+28/10/2025 2:06:08 PM : Solving FEA model
+28/10/2025 2:06:08 PM : Solving FEA model
+28/10/2025 2:06:09 PM : Solving FEA model
+28/10/2025 2:06:10 PM : Solving FEA model
+28/10/2025 2:06:10 PM : Solving FEA model
+28/10/2025 2:06:11 PM : Solving FEA model
+28/10/2025 2:06:12 PM : Solving FEA model
+28/10/2025 2:06:13 PM : Solving FEA model
+28/10/2025 2:06:13 PM : Solving FEA model
+28/10/2025 2:06:14 PM : Solving FEA model
+28/10/2025 2:06:15 PM : Solving FEA model
+28/10/2025 2:06:15 PM : Solving FEA model
+28/10/2025 2:06:16 PM : Solving FEA model
+28/10/2025 2:06:17 PM : Solving FEA model
+28/10/2025 2:06:17 PM : Solving FEA model
+28/10/2025 2:06:18 PM : Solving FEA model
+28/10/2025 2:06:19 PM : Solving FEA model
+28/10/2025 2:06:19 PM : Solving FEA model
+28/10/2025 2:06:20 PM : Solving FEA model
+28/10/2025 2:06:21 PM : Solving FEA model
+28/10/2025 2:06:22 PM : FEA Calculation Time: 87 Seconds
+28/10/2025 2:06:22 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 2:06:22 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 2:06:22 PM : Solving completed
+28/10/2025 2:06:23 PM : Nodes count = 10585
+28/10/2025 2:06:23 PM : Elements count = 20858
+28/10/2025 2:06:23 PM : Status: Solving Completed
+28/10/2025 2:06:23 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 2:06:23 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 2:07:32 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 164.210526315789
+28/10/2025 2:07:32 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 2:07:32 PM : pymotorcad: show_magnetic_context
+28/10/2025 2:07:32 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 2:07:32 PM : Status: Solving FEA model
+28/10/2025 2:07:32 PM : Q axis current only Point Calculation
+28/10/2025 2:07:32 PM : Solving FEA model
+28/10/2025 2:07:34 PM : Load Point Calculation
+28/10/2025 2:07:34 PM : Solving FEA model
+28/10/2025 2:07:36 PM : Solving FEA model
+28/10/2025 2:07:37 PM : Solving FEA model
+28/10/2025 2:07:38 PM : Transient Back EMF Calculation
+28/10/2025 2:07:38 PM : Solving FEA model
+28/10/2025 2:08:16 PM : Cogging Torque Calculation
+28/10/2025 2:08:16 PM : Solving FEA model
+28/10/2025 2:08:18 PM : Solving FEA model
+28/10/2025 2:08:18 PM : Solving FEA model
+28/10/2025 2:08:19 PM : Solving FEA model
+28/10/2025 2:08:20 PM : Solving FEA model
+28/10/2025 2:08:21 PM : Solving FEA model
+28/10/2025 2:08:21 PM : Solving FEA model
+28/10/2025 2:08:22 PM : Solving FEA model
+28/10/2025 2:08:23 PM : Solving FEA model
+28/10/2025 2:08:24 PM : Solving FEA model
+28/10/2025 2:08:24 PM : Solving FEA model
+28/10/2025 2:08:25 PM : Solving FEA model
+28/10/2025 2:08:26 PM : Solving FEA model
+28/10/2025 2:08:27 PM : Solving FEA model
+28/10/2025 2:08:27 PM : Solving FEA model
+28/10/2025 2:08:28 PM : Solving FEA model
+28/10/2025 2:08:29 PM : Solving FEA model
+28/10/2025 2:08:30 PM : Solving FEA model
+28/10/2025 2:08:30 PM : Solving FEA model
+28/10/2025 2:08:31 PM : Solving FEA model
+28/10/2025 2:08:32 PM : Solving FEA model
+28/10/2025 2:08:33 PM : Solving FEA model
+28/10/2025 2:08:33 PM : Solving FEA model
+28/10/2025 2:08:34 PM : Solving FEA model
+28/10/2025 2:08:35 PM : Solving FEA model
+28/10/2025 2:08:36 PM : Solving FEA model
+28/10/2025 2:08:36 PM : Solving FEA model
+28/10/2025 2:08:37 PM : Solving FEA model
+28/10/2025 2:08:38 PM : Solving FEA model
+28/10/2025 2:08:39 PM : Solving FEA model
+28/10/2025 2:08:39 PM : Solving FEA model
+28/10/2025 2:08:40 PM : Solving FEA model
+28/10/2025 2:08:41 PM : Solving FEA model
+28/10/2025 2:08:42 PM : Solving FEA model
+28/10/2025 2:08:42 PM : Solving FEA model
+28/10/2025 2:08:43 PM : Solving FEA model
+28/10/2025 2:08:44 PM : Solving FEA model
+28/10/2025 2:08:44 PM : Solving FEA model
+28/10/2025 2:08:45 PM : Solving FEA model
+28/10/2025 2:08:46 PM : Solving FEA model
+28/10/2025 2:08:46 PM : Solving FEA model
+28/10/2025 2:08:47 PM : Solving FEA model
+28/10/2025 2:08:48 PM : Solving FEA model
+28/10/2025 2:08:49 PM : Solving FEA model
+28/10/2025 2:08:50 PM : Solving FEA model
+28/10/2025 2:08:50 PM : Solving FEA model
+28/10/2025 2:08:51 PM : Solving FEA model
+28/10/2025 2:08:52 PM : Solving FEA model
+28/10/2025 2:08:53 PM : Solving FEA model
+28/10/2025 2:08:53 PM : Solving FEA model
+28/10/2025 2:08:54 PM : Solving FEA model
+28/10/2025 2:08:55 PM : Solving FEA model
+28/10/2025 2:08:55 PM : Solving FEA model
+28/10/2025 2:08:56 PM : Solving FEA model
+28/10/2025 2:08:57 PM : Solving FEA model
+28/10/2025 2:08:58 PM : Solving FEA model
+28/10/2025 2:08:59 PM : Solving FEA model
+28/10/2025 2:08:59 PM : Solving FEA model
+28/10/2025 2:09:00 PM : Solving FEA model
+28/10/2025 2:09:01 PM : Solving FEA model
+28/10/2025 2:09:02 PM : Solving FEA model
+28/10/2025 2:09:02 PM : Solving FEA model
+28/10/2025 2:09:03 PM : Solving FEA model
+28/10/2025 2:09:04 PM : Solving FEA model
+28/10/2025 2:09:04 PM : FEA Calculation Time: 92 Seconds
+28/10/2025 2:09:04 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 2:09:05 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 2:09:05 PM : Solving completed
+28/10/2025 2:09:06 PM : Nodes count = 10614
+28/10/2025 2:09:06 PM : Elements count = 20914
+28/10/2025 2:09:06 PM : Status: Solving Completed
+28/10/2025 2:09:06 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 2:09:06 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 2:10:16 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 172.105263157895
+28/10/2025 2:10:16 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 2:10:16 PM : pymotorcad: show_magnetic_context
+28/10/2025 2:10:16 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 2:10:17 PM : Status: Solving FEA model
+28/10/2025 2:10:17 PM : Q axis current only Point Calculation
+28/10/2025 2:10:17 PM : Solving FEA model
+28/10/2025 2:10:19 PM : Load Point Calculation
+28/10/2025 2:10:19 PM : Solving FEA model
+28/10/2025 2:10:21 PM : Solving FEA model
+28/10/2025 2:10:22 PM : Solving FEA model
+28/10/2025 2:10:23 PM : Transient Back EMF Calculation
+28/10/2025 2:10:23 PM : Solving FEA model
+28/10/2025 2:11:03 PM : Cogging Torque Calculation
+28/10/2025 2:11:03 PM : Solving FEA model
+28/10/2025 2:11:04 PM : Solving FEA model
+28/10/2025 2:11:05 PM : Solving FEA model
+28/10/2025 2:11:06 PM : Solving FEA model
+28/10/2025 2:11:07 PM : Solving FEA model
+28/10/2025 2:11:08 PM : Solving FEA model
+28/10/2025 2:11:08 PM : Solving FEA model
+28/10/2025 2:11:09 PM : Solving FEA model
+28/10/2025 2:11:10 PM : Solving FEA model
+28/10/2025 2:11:11 PM : Solving FEA model
+28/10/2025 2:11:11 PM : Solving FEA model
+28/10/2025 2:11:12 PM : Solving FEA model
+28/10/2025 2:11:13 PM : Solving FEA model
+28/10/2025 2:11:14 PM : Solving FEA model
+28/10/2025 2:11:14 PM : Solving FEA model
+28/10/2025 2:11:15 PM : Solving FEA model
+28/10/2025 2:11:16 PM : Solving FEA model
+28/10/2025 2:11:17 PM : Solving FEA model
+28/10/2025 2:11:18 PM : Solving FEA model
+28/10/2025 2:11:18 PM : Solving FEA model
+28/10/2025 2:11:19 PM : Solving FEA model
+28/10/2025 2:11:20 PM : Solving FEA model
+28/10/2025 2:11:21 PM : Solving FEA model
+28/10/2025 2:11:22 PM : Solving FEA model
+28/10/2025 2:11:22 PM : Solving FEA model
+28/10/2025 2:11:23 PM : Solving FEA model
+28/10/2025 2:11:24 PM : Solving FEA model
+28/10/2025 2:11:24 PM : Solving FEA model
+28/10/2025 2:11:25 PM : Solving FEA model
+28/10/2025 2:11:26 PM : Solving FEA model
+28/10/2025 2:11:27 PM : Solving FEA model
+28/10/2025 2:11:27 PM : Solving FEA model
+28/10/2025 2:11:28 PM : Solving FEA model
+28/10/2025 2:11:29 PM : Solving FEA model
+28/10/2025 2:11:30 PM : Solving FEA model
+28/10/2025 2:11:30 PM : Solving FEA model
+28/10/2025 2:11:31 PM : Solving FEA model
+28/10/2025 2:11:32 PM : Solving FEA model
+28/10/2025 2:11:33 PM : Solving FEA model
+28/10/2025 2:11:33 PM : Solving FEA model
+28/10/2025 2:11:34 PM : Solving FEA model
+28/10/2025 2:11:35 PM : Solving FEA model
+28/10/2025 2:11:36 PM : Solving FEA model
+28/10/2025 2:11:37 PM : Solving FEA model
+28/10/2025 2:11:37 PM : Solving FEA model
+28/10/2025 2:11:38 PM : Solving FEA model
+28/10/2025 2:11:39 PM : Solving FEA model
+28/10/2025 2:11:40 PM : Solving FEA model
+28/10/2025 2:11:40 PM : Solving FEA model
+28/10/2025 2:11:41 PM : Solving FEA model
+28/10/2025 2:11:42 PM : Solving FEA model
+28/10/2025 2:11:43 PM : Solving FEA model
+28/10/2025 2:11:44 PM : Solving FEA model
+28/10/2025 2:11:44 PM : Solving FEA model
+28/10/2025 2:11:45 PM : Solving FEA model
+28/10/2025 2:11:46 PM : Solving FEA model
+28/10/2025 2:11:47 PM : Solving FEA model
+28/10/2025 2:11:47 PM : Solving FEA model
+28/10/2025 2:11:48 PM : Solving FEA model
+28/10/2025 2:11:49 PM : Solving FEA model
+28/10/2025 2:11:50 PM : Solving FEA model
+28/10/2025 2:11:51 PM : Solving FEA model
+28/10/2025 2:11:52 PM : Solving FEA model
+28/10/2025 2:11:53 PM : Solving FEA model
+28/10/2025 2:11:53 PM : FEA Calculation Time: 96 Seconds
+28/10/2025 2:11:53 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 2:11:54 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 2:11:54 PM : Solving completed
+28/10/2025 2:11:55 PM : Nodes count = 10641
+28/10/2025 2:11:55 PM : Elements count = 20968
+28/10/2025 2:11:55 PM : Status: Solving Completed
+28/10/2025 2:11:55 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 2:11:55 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 2:13:19 PM : pymotorcad: set_variable Magnet_Arc_[ED] = 180
+28/10/2025 2:13:19 PM : pymotorcad: set_variable MessageDisplayState = 2
+28/10/2025 2:13:19 PM : pymotorcad: show_magnetic_context
+28/10/2025 2:13:19 PM : pymotorcad: do_magnetic_calculation
+28/10/2025 2:13:19 PM : Status: Solving FEA model
+28/10/2025 2:13:20 PM : Q axis current only Point Calculation
+28/10/2025 2:13:20 PM : Solving FEA model
+28/10/2025 2:13:22 PM : Load Point Calculation
+28/10/2025 2:13:22 PM : Solving FEA model
+28/10/2025 2:13:24 PM : Solving FEA model
+28/10/2025 2:13:25 PM : Solving FEA model
+28/10/2025 2:13:26 PM : Transient Back EMF Calculation
+28/10/2025 2:13:26 PM : Solving FEA model
+28/10/2025 2:14:08 PM : Cogging Torque Calculation
+28/10/2025 2:14:08 PM : Solving FEA model
+28/10/2025 2:14:10 PM : Solving FEA model
+28/10/2025 2:14:10 PM : Solving FEA model
+28/10/2025 2:14:12 PM : Solving FEA model
+28/10/2025 2:14:13 PM : Solving FEA model
+28/10/2025 2:14:13 PM : Solving FEA model
+28/10/2025 2:14:14 PM : Solving FEA model
+28/10/2025 2:14:15 PM : Solving FEA model
+28/10/2025 2:14:16 PM : Solving FEA model
+28/10/2025 2:14:16 PM : Solving FEA model
+28/10/2025 2:14:17 PM : Solving FEA model
+28/10/2025 2:14:18 PM : Solving FEA model
+28/10/2025 2:14:19 PM : Solving FEA model
+28/10/2025 2:14:20 PM : Solving FEA model
+28/10/2025 2:14:21 PM : Solving FEA model
+28/10/2025 2:14:22 PM : Solving FEA model
+28/10/2025 2:14:23 PM : Solving FEA model
+28/10/2025 2:14:23 PM : Solving FEA model
+28/10/2025 2:14:24 PM : Solving FEA model
+28/10/2025 2:14:25 PM : Solving FEA model
+28/10/2025 2:14:26 PM : Solving FEA model
+28/10/2025 2:14:27 PM : Solving FEA model
+28/10/2025 2:14:27 PM : Solving FEA model
+28/10/2025 2:14:28 PM : Solving FEA model
+28/10/2025 2:14:29 PM : Solving FEA model
+28/10/2025 2:14:30 PM : Solving FEA model
+28/10/2025 2:14:31 PM : Solving FEA model
+28/10/2025 2:14:31 PM : Solving FEA model
+28/10/2025 2:14:32 PM : Solving FEA model
+28/10/2025 2:14:33 PM : Solving FEA model
+28/10/2025 2:14:34 PM : Solving FEA model
+28/10/2025 2:14:35 PM : Solving FEA model
+28/10/2025 2:14:36 PM : Solving FEA model
+28/10/2025 2:14:36 PM : Solving FEA model
+28/10/2025 2:14:37 PM : Solving FEA model
+28/10/2025 2:14:38 PM : Solving FEA model
+28/10/2025 2:14:39 PM : Solving FEA model
+28/10/2025 2:14:40 PM : Solving FEA model
+28/10/2025 2:14:40 PM : Solving FEA model
+28/10/2025 2:14:41 PM : Solving FEA model
+28/10/2025 2:14:42 PM : Solving FEA model
+28/10/2025 2:14:43 PM : Solving FEA model
+28/10/2025 2:14:44 PM : Solving FEA model
+28/10/2025 2:14:44 PM : Solving FEA model
+28/10/2025 2:14:45 PM : Solving FEA model
+28/10/2025 2:14:46 PM : Solving FEA model
+28/10/2025 2:14:47 PM : Solving FEA model
+28/10/2025 2:14:48 PM : Solving FEA model
+28/10/2025 2:14:48 PM : Solving FEA model
+28/10/2025 2:14:49 PM : Solving FEA model
+28/10/2025 2:14:50 PM : Solving FEA model
+28/10/2025 2:14:51 PM : Solving FEA model
+28/10/2025 2:14:52 PM : Solving FEA model
+28/10/2025 2:14:53 PM : Solving FEA model
+28/10/2025 2:14:53 PM : Solving FEA model
+28/10/2025 2:14:54 PM : Solving FEA model
+28/10/2025 2:14:55 PM : Solving FEA model
+28/10/2025 2:14:56 PM : Solving FEA model
+28/10/2025 2:14:57 PM : Solving FEA model
+28/10/2025 2:14:58 PM : Solving FEA model
+28/10/2025 2:14:58 PM : Solving FEA model
+28/10/2025 2:14:59 PM : Solving FEA model
+28/10/2025 2:15:00 PM : Solving FEA model
+28/10/2025 2:15:01 PM : Solving FEA model
+28/10/2025 2:15:01 PM : FEA Calculation Time: 101 Seconds
+28/10/2025 2:15:01 PM : Creating folder: c:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy\data\model\5\FEResultsData\feasys\
+28/10/2025 2:15:02 PM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+28/10/2025 2:15:02 PM : Solving completed
+28/10/2025 2:15:03 PM : Nodes count = 10628
+28/10/2025 2:15:03 PM : Elements count = 20944
+28/10/2025 2:15:03 PM : Status: Solving Completed
+28/10/2025 2:15:03 PM : Transferred E-Magnetic Losses to Thermal model
+28/10/2025 2:15:03 PM : pymotorcad: set_variable MessageDisplayState = 0
+28/10/2025 2:16:18 PM : pymotorcad: quit

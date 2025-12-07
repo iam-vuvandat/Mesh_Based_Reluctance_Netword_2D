@@ -1,0 +1,49 @@
+01/11/2025 1:57:26 PM : Created file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\MessageLogs\messageLog_14672.txt
+01/11/2025 1:57:26 PM : Loaded file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5.mot
+01/11/2025 1:58:17 PM : Status: Solving FEA model
+01/11/2025 1:58:18 PM : Q axis current only Point Calculation
+01/11/2025 1:58:20 PM : Solving FEA model
+01/11/2025 1:58:49 PM : Load Point Calculation
+01/11/2025 1:58:51 PM : Solving FEA model
+01/11/2025 1:59:18 PM : Solving FEA model
+01/11/2025 1:59:28 PM : Solving FEA model
+01/11/2025 1:59:39 PM : Multistatic Back EMF Calculation
+01/11/2025 1:59:41 PM : Solving FEA model
+01/11/2025 2:00:06 PM : Solving FEA model
+01/11/2025 2:00:26 PM : Solving FEA model
+01/11/2025 2:00:45 PM : Solving FEA model
+01/11/2025 2:01:07 PM : Solving FEA model
+01/11/2025 2:01:26 PM : Solving FEA model
+01/11/2025 2:01:43 PM : Solving FEA model
+01/11/2025 2:01:58 PM : Solving FEA model
+01/11/2025 2:02:15 PM : Solving FEA model
+01/11/2025 2:02:30 PM : Solving FEA model
+01/11/2025 2:02:49 PM : Solving FEA model
+01/11/2025 2:03:07 PM : Solving FEA model
+01/11/2025 2:03:22 PM : Solving FEA model
+01/11/2025 2:03:39 PM : Solving FEA model
+01/11/2025 2:03:56 PM : Solving FEA model
+01/11/2025 2:04:22 PM : Solving FEA model
+01/11/2025 2:04:42 PM : Solving FEA model
+01/11/2025 2:04:57 PM : Cogging Torque Calculation
+01/11/2025 2:05:00 PM : Solving FEA model
+01/11/2025 2:05:25 PM : Solving FEA model
+01/11/2025 2:05:37 PM : Solving FEA model
+01/11/2025 2:05:55 PM : Solving FEA model
+01/11/2025 2:06:10 PM : Solving FEA model
+01/11/2025 2:06:22 PM : Solving FEA model
+01/11/2025 2:06:34 PM : Solving FEA model
+01/11/2025 2:06:46 PM : Solving FEA model
+01/11/2025 2:06:58 PM : Solving FEA model
+01/11/2025 2:07:10 PM : Solving FEA model
+01/11/2025 2:07:22 PM : Solving FEA model
+01/11/2025 2:07:33 PM : Solving FEA model
+01/11/2025 2:07:45 PM : Solving FEA model
+01/11/2025 2:07:59 PM : Solving FEA model
+01/11/2025 2:08:12 PM : Solving FEA model
+01/11/2025 2:08:26 PM : Solving FEA model
+01/11/2025 2:08:37 PM : Solving FEA model
+01/11/2025 2:08:49 PM : Solving FEA model
+01/11/2025 2:09:03 PM : Solving FEA model
+01/11/2025 2:09:31 PM : Data has been edited.Do you want to save the file before closing? = No
+01/11/2025 2:09:31 PM : Solving FEA model

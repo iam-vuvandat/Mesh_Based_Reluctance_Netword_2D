@@ -1,0 +1,72 @@
+08/11/2025 8:27:30 PM : Created file: h:\My Drive\do_an\reluctance_network14 - Copy - Copy\data\model\5\MessageLogs\messageLog_16608.txt
+08/11/2025 8:27:30 PM : Loaded file: h:\My Drive\do_an\reluctance_network14 - Copy - Copy\data\model\5.mot
+08/11/2025 8:27:31 PM : pymotorcad: set_variable AirgapMeshPoints_layers = 15
+08/11/2025 8:27:31 PM : pymotorcad: set_variable AirgapMeshPoints_mesh = 15
+08/11/2025 8:27:31 PM : pymotorcad: set_variable MessageDisplayState = 2
+08/11/2025 8:27:31 PM : pymotorcad: show_magnetic_context
+08/11/2025 8:27:31 PM : pymotorcad: do_magnetic_calculation
+08/11/2025 8:27:31 PM : Status: Solving FEA model
+08/11/2025 8:27:32 PM : Q axis current only Point Calculation
+08/11/2025 8:27:34 PM : Solving FEA model
+08/11/2025 8:28:25 PM : Load Point Calculation
+08/11/2025 8:28:26 PM : Solving FEA model
+08/11/2025 8:29:20 PM : Solving FEA model
+08/11/2025 8:30:20 PM : Solving FEA model
+08/11/2025 8:31:18 PM : Multistatic Back EMF Calculation
+08/11/2025 8:31:19 PM : Solving FEA model
+08/11/2025 8:31:22 PM : Solving FEA model
+08/11/2025 8:32:18 PM : Solving FEA model
+08/11/2025 8:32:28 PM : Solving FEA model
+08/11/2025 8:32:39 PM : Solving FEA model
+08/11/2025 8:32:49 PM : Solving FEA model
+08/11/2025 8:33:00 PM : Solving FEA model
+08/11/2025 8:33:11 PM : Solving FEA model
+08/11/2025 8:33:21 PM : Solving FEA model
+08/11/2025 8:33:32 PM : Solving FEA model
+08/11/2025 8:33:41 PM : Solving FEA model
+08/11/2025 8:33:53 PM : Solving FEA model
+08/11/2025 8:34:03 PM : Solving FEA model
+08/11/2025 8:34:14 PM : Solving FEA model
+08/11/2025 8:34:24 PM : Solving FEA model
+08/11/2025 8:34:35 PM : Solving FEA model
+08/11/2025 8:34:46 PM : Solving FEA model
+08/11/2025 8:34:56 PM : Cogging Torque Calculation
+08/11/2025 8:34:56 PM : Warning: Cogging angle = 0.387097 MDeg is smaller than airgap mesh angle =24 MDeg.
+Cogging results may be inaccurate.
+Please consider increasing airgap mesh density.
+08/11/2025 8:34:58 PM : Solving FEA model
+08/11/2025 8:35:01 PM : Solving FEA model
+08/11/2025 8:35:03 PM : Solving FEA model
+08/11/2025 8:35:57 PM : Solving FEA model
+08/11/2025 8:36:07 PM : Solving FEA model
+08/11/2025 8:36:17 PM : Solving FEA model
+08/11/2025 8:36:27 PM : Solving FEA model
+08/11/2025 8:36:37 PM : Solving FEA model
+08/11/2025 8:36:47 PM : Solving FEA model
+08/11/2025 8:36:56 PM : Solving FEA model
+08/11/2025 8:37:06 PM : Solving FEA model
+08/11/2025 8:37:16 PM : Solving FEA model
+08/11/2025 8:37:26 PM : Solving FEA model
+08/11/2025 8:37:37 PM : Solving FEA model
+08/11/2025 8:37:48 PM : Solving FEA model
+08/11/2025 8:37:56 PM : Solving FEA model
+08/11/2025 8:38:07 PM : Solving FEA model
+08/11/2025 8:38:17 PM : Solving FEA model
+08/11/2025 8:38:28 PM : Solving FEA model
+08/11/2025 8:38:39 PM : Solving FEA model
+08/11/2025 8:38:49 PM : Solving FEA model
+08/11/2025 8:39:00 PM : Solving FEA model
+08/11/2025 8:39:11 PM : Solving FEA model
+08/11/2025 8:39:23 PM : Solving FEA model
+08/11/2025 8:39:34 PM : Solving FEA model
+08/11/2025 8:39:44 PM : Solving FEA model
+08/11/2025 8:39:55 PM : Solving FEA model
+08/11/2025 8:40:06 PM : Solving FEA model
+08/11/2025 8:40:17 PM : Solving FEA model
+08/11/2025 8:40:27 PM : Solving FEA model
+08/11/2025 8:40:37 PM : Solving FEA model
+08/11/2025 8:40:50 PM : Solving FEA model
+08/11/2025 8:40:57 PM : Solving FEA model
+08/11/2025 8:41:03 PM : Solving FEA model
+08/11/2025 8:41:10 PM : Data has been edited.Do you want to save the file before closing? = Yes
+08/11/2025 8:41:11 PM : File saved to: h:\My Drive\do_an\reluctance_network14 - Copy - Copy\data\model\5\AutoSave\5_AutoSave_08Nov2025_204111.mot

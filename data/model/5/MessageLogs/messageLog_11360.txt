@@ -1,0 +1,15 @@
+01/11/2025 9:27:20 AM : Created file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\MessageLogs\messageLog_11360.txt
+01/11/2025 9:27:20 AM : Loaded file: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5.mot
+01/11/2025 9:28:37 AM : Status: Solving FEA model
+01/11/2025 9:28:37 AM : Q axis current only Point Calculation
+01/11/2025 9:28:39 AM : Execution error/ Showmessage: (UEM)  Wrong geometry: node 74 already exists
+01/11/2025 9:28:39 AM : Error in FeaCreateOptimisedMesh_A : Exception :  Exception from error: Execution error/ Showmessage: (UEM)  Wrong geometry: node 74 already exists
+01/11/2025 9:28:44 AM : Failed to Create Optimised Mesh
+01/11/2025 9:28:46 AM : Error in FeaCreateOptimisedMesh_A : Exception :  Exception from error: Execution error/ Showmessage: (UEM)  Wrong geometry: node 74 already exists
+01/11/2025 9:28:47 AM : Warning: Operating point outside voltage limit. Check the DC bus voltage.
+01/11/2025 9:28:48 AM : Unable to solve Fea problem
+01/11/2025 9:28:48 AM : Status: Solving Completed
+01/11/2025 9:28:48 AM : Transferred E-Magnetic Losses to Thermal model
+01/11/2025 9:29:11 AM : Creating folder: C:\Users\Surface\Desktop\reluctance_network13 - Copy - Copy - Copy\data\model\5\FEResultsData\feasys\
+01/11/2025 9:29:11 AM : Status: Solving FEA model
+01/11/2025 9:29:12 AM : Q axis current only Point Calculation
